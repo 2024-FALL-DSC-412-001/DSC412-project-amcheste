@@ -1,0 +1,52 @@
+id,name,abbreviation
+1,Wide Receiver,WR
+2,Left Tackle,LT
+3,Left Guard,LG
+4,Center,C
+5,Right Guard,RG
+6,Right Tackle,RT
+7,Tight End,TE
+8,Quarterback,QB
+10,Fullback,FB
+11,Left Defensive End,LDE
+12,Nose Tackle,NT
+13,Right Defensive End,RDE
+14,Left Outside Linebacker,LOLB
+16,Right Inside Linebacker,RILB
+17,Right Outside Linebacker,ROLB
+22,Place Kicker,PK
+23,Punter,P
+24,Left Defensive Tackle,LDT
+25,Right Defensive Tackle,RDT
+26,Weakside Linebacker,WLB
+27,Middle Linebacker,MLB
+28,Strongside Linebacker,SLB
+29,Cornerback,CB
+33,Under Tackle,UT
+34,Nickel Back,NB
+39,Long Snapper,LS
+75,Nose Guard,NG
+76,Punt Returner,PR
+77,Kick Returner,KR
+78,Long Snapper,LS
+79,Holder,H
+80,Place Kicker,PK
+90,Inside Linebacker,ILB
+91,Center,C
+94,Punter,P
+96,Long Snapper,LS
+100,Flanker,FL
+101,Halfback,HB
+15,Left Inside Linebacker,LILB
+102,Tailback,TB
+103,Left Halfback,LHB
+104,Right Halfback,RHB
+105,Left Linebacker,LLB
+106,Right Linebacker,RLB
+107,Outside Linebacker,OLB
+108,Left Safety,LSF
+109,Right Safety,RSF
+110,Middle Guard,MG
+111,Split End,SE
+218,Setter,SETTER
+264,EDGE,EDGE
