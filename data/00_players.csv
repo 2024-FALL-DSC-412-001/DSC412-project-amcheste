@@ -1,0 +1,1028 @@
+id,name,weight,height,experience,active,status,position,age,team,stats_log,url
+3056906,Johnny Holton,190.0,75.0,4,True,FA,1,33.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3056906?lang=en&region=us
+4245144,Tay Martin,185.0,75.0,1,True,Practice Squad,1,26.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4245144?lang=en&region=us
+4429030,Andrew Raym,327.0,76.0,0,True,FA,4,23.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429030?lang=en&region=us
+3933064,John Ursua,182.0,69.0,2,True,FA,1,30.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3933064?lang=en&region=us
+4248822,Montrell Washington,170.0,70.0,3,True,Practice Squad,1,25.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4248822?lang=en&region=us
+2971271,Bralon Addison,190.0,70.0,1,True,FA,1,31.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2971271?lang=en&region=us
+4692835,Jalen Brooks,205.0,74.0,2,True,Active,1,24.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4692835?lang=en&region=us
+3929637,Dan Chisena,202.0,75.0,4,True,Practice Squad,1,27.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3929637?lang=en&region=us
+4573473,Ryan Coll,324.0,77.0,0,True,Day-To-Day,4,23.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4573473?lang=en&region=us
+4258173,Nico Collins,222.0,76.0,4,True,Day-To-Day,1,25.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258173?lang=en&region=us
+4035112,Trystan Colon,313.0,75.0,5,True,Active,4,26.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035112?lang=en&region=us
+2578533,Chris Conley,205.0,75.0,10,True,Active,1,31.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2578533?lang=en&region=us
+16731,Brandin Cooks,189.0,70.0,11,True,Day-To-Day,1,31.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16731?lang=en&region=us
+4241588,Elijah Cooks,215.0,76.0,2,True,Practice Squad,1,26.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241588?lang=en&region=us
+2976499,Amari Cooper,210.0,73.0,10,True,Active,1,30.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2976499?lang=en&region=us
+14013,Rodney Hudson,315.0,74.0,12,True,FA,4,35.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14013?lang=en&region=us
+4368423,Mike McAllister,308.0,74.0,1,True,Practice Squad,4,25.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4368423?lang=en&region=us
+16954,Demetrius Rhaney,305.0,74.0,5,True,FA,4,32.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16954?lang=en&region=us
+4432620,Parker Washington,212.0,70.0,2,True,Active,1,22.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4432620?lang=en&region=us
+4692022,Javon Baker,202.0,73.0,0,True,Active,1,22.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4692022?lang=en&region=us
+4567156,Treylon Burks,225.0,74.0,3,True,Day-To-Day,1,24.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4567156?lang=en&region=us
+4360233,Jacob Copeland,202.0,72.0,1,True,FA,1,25.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360233?lang=en&region=us
+3056608,Austin Corbett,305.0,76.0,7,True,Day-To-Day,4,28.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3056608?lang=en&region=us
+2980378,Cody Core,205.0,75.0,6,True,FA,1,30.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2980378?lang=en&region=us
+4613104,Malachi Corley,215.0,71.0,0,True,Active,1,22.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4613104?lang=en&region=us
+4367186,Chase Cota,200.0,76.0,1,True,FA,1,24.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4367186?lang=en&region=us
+4282647,Jeff Cotton,206.0,74.0,1,True,FA,1,27.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4282647?lang=en&region=us
+4248504,Isaiah Coulter,190.0,75.0,2,True,FA,1,26.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4248504?lang=en&region=us
+3915823,Keke Coutee,180.0,71.0,5,True,FA,1,27.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915823?lang=en&region=us
+3926231,Britain Covey,173.0,68.0,3,True,Day-To-Day,1,27.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3926231?lang=en&region=us
+4575665,Jacob Cowing,171.0,69.0,0,True,Active,1,23.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4575665?lang=en&region=us
+3052056,River Cracraft,198.0,72.0,6,True,Day-To-Day,1,29.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3052056?lang=en&region=us
+4046519,Kekoa Crawford,192.0,72.0,0,True,FA,1,26.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4046519?lang=en&region=us
+4258244,Harry Crider,307.0,75.0,0,True,FA,4,25.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258244?lang=en&region=us
+4350798,Joshua Crockett,195.0,76.0,0,True,FA,1,29.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4350798?lang=en&region=us
+4035689,Josh Imatorbhebhe,220.0,74.0,0,True,FA,1,26.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035689?lang=en&region=us
+4589248,Tyreik McAllister,180.0,71.0,1,True,Active,1,26.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4589248?lang=en&region=us
+4035656,Ben Skowronek,224.0,75.0,4,True,Day-To-Day,1,27.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035656?lang=en&region=us
+3119317,Nsimba Webster,180.0,70.0,4,True,Day-To-Day,1,28.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3119317?lang=en&region=us
+4893659,Jelani Baker,195.0,74.0,0,True,FA,1,,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4893659?lang=en&region=us
+4242490,Braxton Burmeister,200.0,72.0,0,True,FA,1,26.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242490?lang=en&region=us
+2576716,Jamison Crowder,177.0,69.0,10,True,Day-To-Day,1,31.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2576716?lang=en&region=us
+4361556,Aron Cruickshank,170.0,70.0,0,True,FA,1,24.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361556?lang=en&region=us
+4240069,Malik Cunningham,186.0,73.0,2,True,Practice Squad,1,26.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240069?lang=en&region=us
+4035448,Lloyd Cushenberry III,315.0,76.0,5,True,Active,4,26.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035448?lang=en&region=us
+3124013,Jamal Custis,213.0,77.0,0,True,FA,1,28.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3124013?lang=en&region=us
+4242553,Drew Dalman,305.0,75.0,4,True,Day-To-Day,4,26.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242553?lang=en&region=us
+4694694,Dallas Daniels,180.0,73.0,0,True,FA,1,,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4694694?lang=en&region=us
+2977627,Erik Magnuson,300.0,78.0,3,True,FA,4,30.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2977627?lang=en&region=us
+4430155,Dylan McMahon,298.0,75.0,0,True,Active,4,23.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430155?lang=en&region=us
+5089537,David White Jr.,200.0,76.0,0,True,Day-To-Day,1,24.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5089537?lang=en&region=us
+2977629,Amara Darboh,219.0,74.0,3,True,FA,1,30.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2977629?lang=en&region=us
+4047836,Frank Darby,200.0,73.0,3,True,FA,1,27.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047836?lang=en&region=us
+4243830,Jaelon Darden,175.0,68.0,3,True,Active,1,25.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243830?lang=en&region=us
+4258586,Avery Davis,198.0,71.0,0,True,FA,1,26.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258586?lang=en&region=us
+3042778,Corey Davis,209.0,75.0,7,True,Active,1,29.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3042778?lang=en&region=us
+4242505,Daewood Davis,196.0,73.0,1,True,FA,1,25.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242505?lang=en&region=us
+4242330,Danny Davis,188.0,73.0,0,True,FA,1,26.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242330?lang=en&region=us
+3933568,Davion Davis,195.0,71.0,4,True,FA,1,27.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3933568?lang=en&region=us
+4362477,Derius Davis,165.0,68.0,2,True,Active,1,24.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362477?lang=en&region=us
+4243537,Gabe Davis,210.0,74.0,5,True,Active,1,25.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243537?lang=en&region=us
+2513030,Geremy Davis,211.0,75.0,5,True,FA,1,32.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2513030?lang=en&region=us
+5065495,Kaden Davis,190.0,73.0,1,True,FA,1,26.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5065495?lang=en&region=us
+4035221,Quartney Davis,200.0,73.0,0,True,FA,1,26.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035221?lang=en&region=us
+2978308,Jaydon Mickens,174.0,70.0,5,True,FA,1,30.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2978308?lang=en&region=us
+3121225,Reggie White Jr.,212.0,74.0,0,True,FA,1,28.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3121225?lang=en&region=us
+3043134,Reggie Davis,185.0,71.0,2,True,FA,1,28.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3043134?lang=en&region=us
+3042373,Robert Davis,210.0,75.0,3,True,FA,1,29.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3042373?lang=en&region=us
+4579752,Shaquan Davis,215.0,77.0,1,True,FA,1,24.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4579752?lang=en&region=us
+2573343,Trevor Davis,188.0,73.0,5,True,FA,1,31.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2573343?lang=en&region=us
+3929817,Felton Davis III,211.0,75.0,0,True,FA,1,27.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3929817?lang=en&region=us
+4035996,Seth Dawkins,218.0,75.0,0,True,FA,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035996?lang=en&region=us
+2516310,Dillon Day,296.0,76.0,1,True,FA,4,33.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2516310?lang=en&region=us
+3120878,DeVonte Dedmon,200.0,70.0,1,True,FA,1,28.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3120878?lang=en&region=us
+4366031,Tank Dell,165.0,70.0,2,True,Active,1,24.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4366031?lang=en&region=us
+2971830,JoJo Natson,153.0,67.0,5,True,FA,1,30.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2971830?lang=en&region=us
+4036335,Cedrick Wilson Jr.,197.0,74.0,7,True,Active,1,29.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4036335?lang=en&region=us
+4372039,Dontay Demus Jr.,220.0,75.0,0,True,FA,1,24.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372039?lang=en&region=us
+4043814,Michael Dereus,207.0,71.0,1,True,FA,1,27.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4043814?lang=en&region=us
+2980460,Gehrig Dieter,207.0,75.0,2,True,FA,1,31.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2980460?lang=en&region=us
+2976212,Stefon Diggs,191.0,72.0,10,True,Active,1,30.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2976212?lang=en&region=us
+3843469,Derrick Dillon,185.0,71.0,2,True,FA,1,28.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3843469?lang=en&region=us
+4047648,Tre Nixon,190.0,74.0,1,True,FA,1,26.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047648?lang=en&region=us
+3121413,Johnnie Dixon,198.0,71.0,1,True,FA,1,30.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3121413?lang=en&region=us
+2576019,Josh Doctson,206.0,74.0,5,True,FA,1,31.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2576019?lang=en&region=us
+2579604,Phillip Dorsett,185.0,70.0,9,True,FA,1,31.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2579604?lang=en&region=us
+4037235,Greg Dortch,175.0,67.0,4,True,Active,1,26.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4037235?lang=en&region=us
+3120980,Keelan Doss,215.0,75.0,2,True,FA,1,28.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3120980?lang=en&region=us
+4361409,Jahan Dotson,184.0,71.0,3,True,Active,1,24.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361409?lang=en&region=us
+4361432,Romeo Doubs,204.0,74.0,3,True,Active,1,24.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361432?lang=en&region=us
+4427095,DeMario Douglas,192.0,68.0,2,True,Active,1,23.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4427095?lang=en&region=us
+4250945,Colton Dowell,212.0,75.0,2,True,Day-To-Day,1,25.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4250945?lang=en&region=us
+4361757,Trevor Downing,304.0,77.0,0,True,FA,4,,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361757?lang=en&region=us
+4688813,Josh Downs,171.0,69.0,2,True,Active,1,23.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4688813?lang=en&region=us
+4567240,Dontario Drummond,220.0,73.0,1,True,FA,1,27.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4567240?lang=en&region=us
+4363551,Dylan Drummond,186.0,72.0,1,True,Practice Squad,1,24.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4363551?lang=en&region=us
+4431299,Rome Odunze,215.0,75.0,0,True,Active,1,22.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4431299?lang=en&region=us
+4879650,Grant DuBose,201.0,74.0,1,True,Day-To-Day,1,23.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4879650?lang=en&region=us
+3123226,Jonathan Duhart,210.0,75.0,0,True,FA,1,28.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3123226?lang=en&region=us
+4044104,DeVontres Dukes,216.0,76.0,0,True,FA,1,27.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4044104?lang=en&region=us
+4061956,Ashton Dulin,215.0,74.0,6,True,Active,1,27.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4061956?lang=en&region=us
+4370374,David Durden,200.0,74.0,2,True,FA,1,25.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4370374?lang=en&region=us
+4039050,Devin Duvernay,200.0,71.0,5,True,Day-To-Day,1,27.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039050?lang=en&region=us
+3894952,Donteea Dye,195.0,70.0,2,True,FA,1,31.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3894952?lang=en&region=us
+4362107,Brennan Eagles,230.0,75.0,0,True,FA,1,25.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362107?lang=en&region=us
+4426330,Jerrion Ealy,187.0,68.0,1,True,FA,1,24.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426330?lang=en&region=us
+4240591,Nick Easley,203.0,71.0,0,True,FA,1,27.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240591?lang=en&region=us
+5083515,Brevin Easton,192.0,71.0,0,True,FA,1,23.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5083515?lang=en&region=us
+2507667,Nick Easton,303.0,75.0,6,True,FA,4,32.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2507667?lang=en&region=us
+4038818,Bryan Edwards,215.0,75.0,4,True,FA,1,25.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4038818?lang=en&region=us
+4034320,Earnest Edwards,175.0,70.0,0,True,FA,1,26.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4034320?lang=en&region=us
+4567410,Kingsley Eguakun,307.0,75.0,0,True,Practice Squad,4,23.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4567410?lang=en&region=us
+4247578,Hamze El-Zayat,162.0,68.0,0,True,FA,1,25.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4247578?lang=en&region=us
+2978298,Jake Eldrenkamp,300.0,77.0,1,True,FA,4,30.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2978298?lang=en&region=us
+2976295,Pat Elflein,303.0,74.0,8,True,FA,4,30.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2976295?lang=en&region=us
+4240120,Emeka Emezie,212.0,75.0,0,True,FA,1,25.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240120?lang=en&region=us
+4256065,James Empey,297.0,75.0,1,True,FA,4,27.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4256065?lang=en&region=us
+16899,Quincy Enunwa,225.0,74.0,5,True,FA,1,32.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16899?lang=en&region=us
+2977800,Alex Erickson,195.0,72.0,7,True,FA,1,31.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2977800?lang=en&region=us
+4043016,Dee Eskridge,190.0,69.0,4,True,Practice Squad,1,27.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4043016?lang=en&region=us
+4030947,Drew Estrada,196.0,72.0,0,True,FA,1,27.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4030947?lang=en&region=us
+2976215,Amba Etta-Tawo,194.0,73.0,1,True,FA,1,30.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2976215?lang=en&region=us
+16737,Mike Evans,231.0,77.0,11,True,Active,1,31.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16737?lang=en&region=us
+4362186,Erik Ezukanma,206.0,74.0,3,True,Practice Squad,1,24.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362186?lang=en&region=us
+4043745,Jequez Ezzard,202.0,70.0,0,True,FA,1,26.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4043745?lang=en&region=us
+2566591,Anthony Fabiano,303.0,76.0,1,True,FA,4,31.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2566591?lang=en&region=us
+3043224,Nico Falah,301.0,76.0,3,True,FA,4,29.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3043224?lang=en&region=us
+4360739,Simi Fehoko,218.0,76.0,4,True,Active,1,26.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360739?lang=en&region=us
+4062711,Ethan Fernea,195.0,72.0,1,True,FA,1,26.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4062711?lang=en&region=us
+4036055,Maurice Ffrench,200.0,71.0,1,True,FA,1,26.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4036055?lang=en&region=us
+3932429,Chris Finke,186.0,69.0,1,True,FA,1,28.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932429?lang=en&region=us
+2512172,B.J. Finney,318.0,76.0,6,True,FA,4,32.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2512172?lang=en&region=us
+5528,Larry Fitzgerald,218.0,75.0,17,True,FA,1,41.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5528?lang=en&region=us
+4036026,Dez Fitzpatrick,208.0,74.0,2,True,Practice Squad,1,26.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4036026?lang=en&region=us
+5083754,Ryan Flournoy,200.0,73.0,0,True,Active,1,24.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5083754?lang=en&region=us
+4247386,Malik Flowers,195.0,72.0,0,True,FA,1,25.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4247386?lang=en&region=us
+4429615,Zay Flowers,175.0,69.0,2,True,Active,1,24.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429615?lang=en&region=us
+3124069,Isaiah Ford,195.0,74.0,5,True,FA,1,28.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3124069?lang=en&region=us
+4243248,Nick Ford,310.0,77.0,0,True,FA,4,25.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243248?lang=en&region=us
+4362227,Bryce Ford-Wheaton,220.0,75.0,2,True,Active,1,24.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362227?lang=en&region=us
+4427209,Jeff Foreman,186.0,72.0,0,True,Day-To-Day,1,24.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4427209?lang=en&region=us
+4035048,Luke Fortner,307.0,78.0,3,True,Active,4,26.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035048?lang=en&region=us
+17062,Donte Foster,199.0,73.0,1,True,FA,1,33.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17062?lang=en&region=us
+3054845,Robert Foster,196.0,74.0,4,True,FA,1,30.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3054845?lang=en&region=us
+3120659,Daurice Fountain,210.0,74.0,4,True,FA,1,28.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3120659?lang=en&region=us
+16995,Bennie Fowler,218.0,73.0,7,True,FA,1,33.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16995?lang=en&region=us
+4035496,John Franklin,186.0,73.0,2,True,FA,1,30.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035496?lang=en&region=us
+4431280,Troy Franklin,180.0,75.0,0,True,Active,1,21.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4431280?lang=en&region=us
+4429775,Zach Frazier,310.0,75.0,0,True,Active,4,23.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429775?lang=en&region=us
+3916746,Wesley French,307.0,76.0,3,True,Day-To-Day,4,27.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916746?lang=en&region=us
+4258238,Ty Fryfogle,205.0,74.0,1,True,FA,1,25.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258238?lang=en&region=us
+3139522,Travis Fulgham,211.0,74.0,3,True,FA,1,29.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3139522?lang=en&region=us
+4039000,Aaron Fuller,188.0,71.0,1,True,FA,1,27.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039000?lang=en&region=us
+3115378,Russell Gage,185.0,72.0,6,True,FA,1,28.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115378?lang=en&region=us
+3128707,Lamont Gaillard,305.0,75.0,3,True,FA,4,28.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128707?lang=en&region=us
+3921681,Bailey Gaither,189.0,72.0,1,True,FA,1,27.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3921681?lang=en&region=us
+3917868,Tyler Gauthier,300.0,77.0,1,True,FA,4,27.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917868?lang=en&region=us
+4427267,Kaylon Geiger,180.0,70.0,1,True,FA,1,26.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4427267?lang=en&region=us
+3043841,Tanner Gentry,209.0,74.0,1,True,FA,1,29.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3043841?lang=en&region=us
+3042417,Shelton Gibson,191.0,71.0,3,True,FA,1,29.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3042417?lang=en&region=us
+4361351,Jaelen Gill,185.0,72.0,0,True,FA,1,24.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361351?lang=en&region=us
+3919555,Nate Gilliam,300.0,77.0,1,True,FA,4,27.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3919555?lang=en&region=us
+10453,Ted Ginn Jr.,167.0,71.0,14,True,FA,1,39.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/10453?lang=en&region=us
+4427278,Xavier Gipson,189.0,69.0,2,True,Active,1,23.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4427278?lang=en&region=us
+3116165,Chris Godwin,209.0,73.0,8,True,Active,1,28.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3116165?lang=en&region=us
+3915174,Terry Godwin,185.0,71.0,2,True,FA,1,27.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915174?lang=en&region=us
+2974858,Kenny Golladay,213.0,76.0,6,True,FA,1,30.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2974858?lang=en&region=us
+15839,Marquise Goodwin,185.0,69.0,10,True,FA,1,33.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15839?lang=en&region=us
+15705,Josh Gordon,224.0,75.0,6,True,FA,1,33.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15705?lang=en&region=us
+4429684,Anthony Gould,174.0,68.0,0,True,Active,1,23.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429684?lang=en&region=us
+16845,Ryan Grant,194.0,72.0,6,True,FA,1,33.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16845?lang=en&region=us
+2577641,Jakeem Grant Sr.,172.0,67.0,9,True,FA,1,31.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2577641?lang=en&region=us
+2516984,Hroniss Grasu,301.0,75.0,7,True,FA,4,33.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2516984?lang=en&region=us
+4689546,Danny Gray,200.0,72.0,3,True,Practice Squad,1,25.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4689546?lang=en&region=us
+4037481,Devin Gray,192.0,72.0,1,True,FA,1,29.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4037481?lang=en&region=us
+4217370,Cyril Grayson Jr.,183.0,69.0,3,True,FA,1,30.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4217370?lang=en&region=us
+13983,A.J. Green,207.0,76.0,12,True,FA,1,36.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/13983?lang=en&region=us
+4373266,Antoine Green,199.0,74.0,2,True,Day-To-Day,1,24.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4373266?lang=en&region=us
+4366710,Juwan Green,187.0,72.0,1,True,FA,1,26.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4366710?lang=en&region=us
+3124964,Marcus Green,191.0,68.0,1,True,FA,1,28.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3124964?lang=en&region=us
+4429153,Tulu Griffin,180.0,70.0,0,True,FA,1,23.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429153?lang=en&region=us
+4383163,Taylor Grimes,188.0,71.0,0,True,FA,1,24.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4383163?lang=en&region=us
+4241988,Trevon Grimes,218.0,76.0,0,True,FA,1,,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241988?lang=en&region=us
+4362706,Stephen Guidry,201.0,75.0,0,True,FA,1,27.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362706?lang=en&region=us
+3932430,Jalen Guyton,212.0,73.0,5,True,Practice Squad,1,27.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932430?lang=en&region=us
+4242391,Robert Hainsey,306.0,76.0,4,True,Active,4,26.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242391?lang=en&region=us
+5143805,John Hall,194.0,75.0,0,True,FA,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5143805?lang=en&region=us
+4244727,Justin Hall,189.0,68.0,0,True,FA,1,25.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4244727?lang=en&region=us
+2578369,Marvin Hall,190.0,70.0,5,True,FA,1,31.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2578369?lang=en&region=us
+2581464,Rannell Hall,200.0,73.0,2,True,FA,1,31.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2581464?lang=en&region=us
+3057987,DaeSean Hamilton,206.0,73.0,5,True,FA,1,29.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3057987?lang=en&region=us
+4240380,KJ Hamler,178.0,69.0,4,True,Practice Squad,1,25.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240380?lang=en&region=us
+4034944,Josh Hammond,194.0,72.0,1,True,FA,1,26.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4034944?lang=en&region=us
+3912558,De'Quan Hampton,225.0,76.0,1,True,FA,1,30.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3912558?lang=en&region=us
+3915139,Jake Hanson,303.0,76.0,4,True,Active,4,27.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915139?lang=en&region=us
+4035004,Mecole Hardman,187.0,70.0,6,True,Active,1,26.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035004?lang=en&region=us
+4608171,DeAngelo Hardy,197.0,74.0,0,True,FA,1,,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4608171?lang=en&region=us
+4240625,Mike Harley Jr.,180.0,70.0,1,True,FA,1,26.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240625?lang=en&region=us
+3045286,Sean Harlow,284.0,76.0,4,True,Day-To-Day,4,29.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3045286?lang=en&region=us
+4036163,Kelvin Harmon,215.0,74.0,2,True,Practice Squad,1,27.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4036163?lang=en&region=us
+4573845,Devron Harper,175.0,69.0,0,True,FA,1,,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4573845?lang=en&region=us
+4360818,Tyler Harrell,190.0,72.0,0,True,FA,1,24.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360818?lang=en&region=us
+4374496,DeMichael Harris,178.0,68.0,2,True,FA,1,26.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4374496?lang=en&region=us
+14100,Dwayne Harris,215.0,70.0,10,True,FA,1,37.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14100?lang=en&region=us
+3932144,Jacob Harris,211.0,77.0,3,True,FA,1,27.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932144?lang=en&region=us
+5125342,Keilahn Harris,180.0,72.0,1,True,FA,1,23.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5125342?lang=en&region=us
+4039016,Nick Harris,293.0,73.0,5,True,Day-To-Day,4,25.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039016?lang=en&region=us
+4245146,Travell Harris,182.0,68.0,0,True,FA,1,25.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4245146?lang=en&region=us
+17066,Jonotthan Harrison,308.0,76.0,7,True,FA,4,33.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17066?lang=en&region=us
+4363046,Tre'Shaun Harrison,188.0,71.0,1,True,FA,1,24.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4363046?lang=en&region=us
+4432708,Marvin Harrison Jr.,205.0,76.0,0,True,Active,1,22.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4432708?lang=en&region=us
+4047839,N'Keal Harry,225.0,76.0,6,True,Practice Squad,1,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047839?lang=en&region=us
+3917546,Penny Hart,180.0,68.0,4,True,FA,1,28.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917546?lang=en&region=us
+4411193,Deonte Harty,170.0,66.0,6,True,Day-To-Day,1,26.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4411193?lang=en&region=us
+4426370,Jadon Haselwood,215.0,74.0,0,True,FA,1,23.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426370?lang=en&region=us
+3126353,J.C. Hassenauer,295.0,74.0,6,True,FA,4,30.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126353?lang=en&region=us
+3916927,Will Hastings,174.0,70.0,0,True,FA,1,,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916927?lang=en&region=us
+2980061,Keon Hatcher,215.0,73.0,2,True,FA,1,30.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2980061?lang=en&region=us
+4571762,Hayden Hatten,207.0,73.0,0,True,FA,1,24.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4571762?lang=en&region=us
+4241671,Jeremiah Haydel,170.0,72.0,0,True,FA,1,,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241671?lang=en&region=us
+4429760,Jaaron Hayek,199.0,72.0,0,True,FA,1,,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429760?lang=en&region=us
+4427423,Sincere Haynesworth,300.0,73.0,0,True,FA,4,23.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4427423?lang=en&region=us
+4689334,Malik Heath,213.0,74.0,2,True,Active,1,24.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4689334?lang=en&region=us
+4239691,Griffin Hebert,239.0,73.0,1,True,FA,1,25.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4239691?lang=en&region=us
+4034960,Brett Heggie,310.0,76.0,0,True,FA,4,,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4034960?lang=en&region=us
+4361029,Jaivon Heiligh,200.0,74.0,0,True,FA,1,25.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361029?lang=en&region=us
+4044138,Matt Hennessy,315.0,75.0,4,True,Active,4,26.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4044138?lang=en&region=us
+4241004,Thomas Hennigan,210.0,73.0,0,True,FA,1,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241004?lang=en&region=us
+3917200,Malik Henry,190.0,72.0,1,True,FA,1,27.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917200?lang=en&region=us
+2573307,Marcus Henry,303.0,74.0,1,True,FA,4,31.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2573307?lang=en&region=us
+4032625,Ra'Shaun Henry,190.0,75.0,1,True,FA,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4032625?lang=en&region=us
+4244768,Julian Hicks,201.0,74.0,0,True,Practice Squad,1,25.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4244768?lang=en&region=us
+4046668,Aleva Hifo,187.0,70.0,1,True,FA,1,26.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4046668?lang=en&region=us
+3042910,Rashard Higgins,198.0,73.0,7,True,FA,1,30.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3042910?lang=en&region=us
+4239993,Tee Higgins,219.0,76.0,5,True,Active,1,25.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4239993?lang=en&region=us
+4037433,Jake Herslow,185.0,72.0,0,True,FA,1,,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4037433?lang=en&region=us
+4373673,John Hightower,190.0,74.0,2,True,FA,1,28.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4373673?lang=en&region=us
+3676818,TreVontae Hights,195.0,75.0,0,True,FA,1,27.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3676818?lang=en&region=us
+4578462,OJ Hiliare,185.0,72.0,0,True,FA,1,23.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4578462?lang=en&region=us
+4361787,Trey Hill,310.0,76.0,4,True,Active,4,24.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361787?lang=en&region=us
+3116406,Tyreek Hill,191.0,70.0,9,True,Active,1,30.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3116406?lang=en&region=us
+3915522,KJ Hill Jr.,196.0,72.0,2,True,FA,1,27.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915522?lang=en&region=us
+14924,T.Y. Hilton,183.0,69.0,11,True,FA,1,34.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14924?lang=en&region=us
+3700815,Kendall Hinton,195.0,72.0,3,True,FA,1,27.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3700815?lang=en&region=us
+4259597,Mac Hippenhammer,177.0,71.0,0,True,FA,1,25.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259597?lang=en&region=us
+4051829,Changa Hodge,207.0,73.0,0,True,FA,1,,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4051829?lang=en&region=us
+3047876,KhaDarel Hodge,208.0,74.0,5,True,Active,1,29.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3047876?lang=en&region=us
+4242540,Isaiah Hodgins,200.0,75.0,4,True,Practice Squad,1,26.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242540?lang=en&region=us
+4241087,Brock Hoffman,302.0,76.0,2,True,Active,4,25.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241087?lang=en&region=us
+4198679,Krishawn Hogan,220.0,75.0,3,True,FA,1,29.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4198679?lang=en&region=us
+4032644,Cyrus Holder,190.0,76.0,0,True,FA,1,,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4032644?lang=en&region=us
+4249496,Alexander Hollins,166.0,72.0,1,True,FA,1,27.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4249496?lang=en&region=us
+2991662,Mack Hollins,221.0,76.0,8,True,Active,1,31.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2991662?lang=en&region=us
+3115443,Cody Hollister,216.0,76.0,3,True,FA,1,30.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115443?lang=en&region=us
+4259174,Gavin Holmes,200.0,71.0,0,True,FA,1,26.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259174?lang=en&region=us
+15795,DeAndre Hopkins,212.0,73.0,11,True,Active,1,32.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15795?lang=en&region=us
+17172,Trey Hopkins,316.0,75.0,6,True,FA,4,32.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17172?lang=en&region=us
+2989641,Reece Horn,215.0,75.0,1,True,FA,1,31.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2989641?lang=en&region=us
+4572786,Dennis Houston,198.0,73.0,1,True,FA,1,25.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4572786?lang=en&region=us
+4426489,Bryan Hudson,301.0,77.0,0,True,Practice Squad,4,23.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426489?lang=en&region=us
+4429867,Tyler Hudson,197.0,74.0,0,True,FA,1,24.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429867?lang=en&region=us
+4241385,Creed Humphrey,302.0,76.0,4,True,Active,4,25.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241385?lang=en&region=us
+4039057,Lil'Jordan Humphrey,225.0,76.0,5,True,Active,1,26.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039057?lang=en&region=us
+2576491,Adam Humphries,195.0,71.0,8,True,FA,1,31.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2576491?lang=en&region=us
+2971563,Joey Hunt,299.0,74.0,5,True,FA,4,30.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2971563?lang=en&region=us
+3115328,Jalen Hurd,230.0,77.0,4,True,Active,1,28.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115328?lang=en&region=us
+17177,Allen Hurns,195.0,75.0,7,True,FA,1,32.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17177?lang=en&region=us
+4683123,John Hurst,190.0,74.0,2,True,FA,1,27.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4683123?lang=en&region=us
+4686422,Xavier Hutchinson,210.0,75.0,2,True,Active,1,24.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4686422?lang=en&region=us
+4692590,Jalin Hyatt,185.0,72.0,2,True,Active,1,23.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4692590?lang=en&region=us
+3039968,Ishmael Hyman,196.0,72.0,1,True,FA,1,29.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3039968?lang=en&region=us
+14269,Dontrelle Inman,205.0,75.0,7,True,FA,1,35.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14269?lang=en&region=us
+4368003,Andrei Iosivas,205.0,75.0,2,True,Active,1,25.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4368003?lang=en&region=us
+3931391,Trenton Irwin,200.0,74.0,5,True,Active,1,28.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3931391?lang=en&region=us
+3914328,Andy Isabella,188.0,69.0,5,True,FA,1,27.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3914328?lang=en&region=us
+3123992,Steve Ishmael,212.0,74.0,1,True,FA,1,29.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3123992?lang=en&region=us
+4036831,Keith Ismael,310.0,75.0,4,True,Practice Squad,4,26.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4036831?lang=en&region=us
+3909300,Thomas Ives,218.0,76.0,1,True,FA,1,27.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3909300?lang=en&region=us
+2975813,Blake Jackson,200.0,70.0,1,True,FA,1,30.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2975813?lang=en&region=us
+4373470,Calvin Jackson,194.0,70.0,0,True,FA,1,27.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4373470?lang=en&region=us
+11283,DeSean Jackson,175.0,70.0,15,True,FA,1,37.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/11283?lang=en&region=us
+4035054,Drake Jackson,292.0,74.0,0,True,FA,4,26.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035054?lang=en&region=us
+5160748,JaQuae Jackson,184.0,73.0,0,True,Day-To-Day,1,24.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5160748?lang=en&region=us
+4698301,Jermaine Jackson,170.0,67.0,0,True,Active,1,24.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4698301?lang=en&region=us
+4427575,Jha'Quan Jackson,188.0,69.0,0,True,Active,1,24.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4427575?lang=en&region=us
+4361778,Kearis Jackson,196.0,71.0,2,True,Practice Squad,1,24.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361778?lang=en&region=us
+3915802,Lucky Jackson,186.0,72.0,1,True,Practice Squad,1,27.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915802?lang=en&region=us
+4361332,Shedrick Jackson,195.0,73.0,1,True,FA,1,25.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361332?lang=en&region=us
+4046715,Trishton Jackson,191.0,73.0,3,True,FA,1,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4046715?lang=en&region=us
+4256040,Warren Jackson,219.0,78.0,1,True,FA,1,25.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4256040?lang=en&region=us
+4569510,John Jackson III,215.0,73.0,0,True,Practice Squad,1,25.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569510?lang=en&region=us
+3932244,Andre James,300.0,76.0,6,True,Active,4,27.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932244?lang=en&region=us
+3122899,Richie James,185.0,69.0,6,True,FA,1,29.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3122899?lang=en&region=us
+4362208,Sam James,176.0,72.0,0,True,FA,1,24.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362208?lang=en&region=us
+4575116,Ty James,200.0,74.0,0,True,FA,1,23.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4575116?lang=en&region=us
+4251826,Tyshaun James,214.0,74.0,0,True,FA,1,25.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4251826?lang=en&region=us
+4368287,Jadon Janke,210.0,75.0,0,True,FA,1,24.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4368287?lang=en&region=us
+4368290,Jaxon Janke,210.0,75.0,0,True,FA,1,24.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4368290?lang=en&region=us
+4429006,Rakim Jarrett,192.0,72.0,2,True,Day-To-Day,1,23.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429006?lang=en&region=us
+4262921,Justin Jefferson,195.0,73.0,5,True,Active,1,25.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4262921?lang=en&region=us
+3930066,Van Jefferson,200.0,73.0,5,True,Active,1,28.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3930066?lang=en&region=us
+14912,Alshon Jeffery,218.0,75.0,9,True,FA,1,34.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14912?lang=en&region=us
+4362650,Jaray Jenkins,206.0,74.0,1,True,FA,1,24.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362650?lang=en&region=us
+2577808,Darius Jennings,180.0,70.0,5,True,FA,1,32.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2577808?lang=en&region=us
+3916071,Gary Jennings,214.0,73.0,2,True,FA,1,27.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916071?lang=en&region=us
+3886598,Jauan Jennings,212.0,75.0,4,True,Active,1,27.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3886598?lang=en&region=us
+4241463,Jerry Jeudy,195.0,73.0,5,True,Active,1,25.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241463?lang=en&region=us
+4887705,John Jiles,220.0,75.0,0,True,Practice Squad,1,24.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4887705?lang=en&region=us
+4049301,Anthony Johnson,220.0,74.0,1,True,FA,1,29.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4049301?lang=en&region=us
+3917067,Bisi Johnson,210.0,72.0,4,True,FA,1,27.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917067?lang=en&region=us
+4035198,Brandon Johnson,195.0,74.0,3,True,Active,1,26.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035198?lang=en&region=us
+4241407,Braydon Johnson,205.0,72.0,0,True,FA,1,25.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241407?lang=en&region=us
+4567458,C.J. Johnson,222.0,74.0,0,True,FA,1,,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4567458?lang=en&region=us
+4031033,Cade Johnson,184.0,70.0,1,True,FA,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4031033?lang=en&region=us
+4362794,Cam Johnson,202.0,72.0,0,True,FA,1,25.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362794?lang=en&region=us
+4039043,Collin Johnson,222.0,78.0,4,True,Practice Squad,1,27.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039043?lang=en&region=us
+4426479,Cornelius Johnson,212.0,75.0,0,True,Practice Squad,1,23.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426479?lang=en&region=us
+3932905,Diontae Johnson,183.0,70.0,6,True,Active,1,28.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932905?lang=en&region=us
+2517630,Jamel Johnson,220.0,75.0,0,True,Active,1,33.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2517630?lang=en&region=us
+4379405,Jaylen Johnson,194.0,74.0,0,True,Practice Squad,1,24.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4379405?lang=en&region=us
+3924325,Johnathon Johnson,180.0,70.0,0,True,FA,1,27.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3924325?lang=en&region=us
+3126095,Jon'Vea Johnson,195.0,72.0,2,True,FA,1,28.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126095?lang=en&region=us
+4361739,Josh Johnson,181.0,71.0,0,True,FA,1,25.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361739?lang=en&region=us
+5097554,Kameron Johnson,170.0,70.0,0,True,Day-To-Day,1,22.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5097554?lang=en&region=us
+3124537,KeeSean Johnson,201.0,73.0,3,True,FA,1,28.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3124537?lang=en&region=us
+2971718,Marcus Johnson,204.0,73.0,6,True,FA,1,30.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2971718?lang=en&region=us
+2310331,Tyler Johnson,208.0,73.0,4,True,Active,1,26.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2310331?lang=en&region=us
+4043606,Willie Johnson,178.0,72.0,0,True,FA,1,27.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4043606?lang=en&region=us
+4385430,Xavier Johnson,210.0,73.0,0,True,Practice Squad,1,25.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4385430?lang=en&region=us
+4249400,Cephus Johnson III,220.0,77.0,1,True,FA,1,25.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4249400?lang=en&region=us
+4242504,Johnny Johnson III,199.0,73.0,1,True,Practice Squad,1,25.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242504?lang=en&region=us
+5151145,Leon Johnson III,215.0,77.0,0,True,FA,1,23.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5151145?lang=en&region=us
+4429025,Quentin Johnston,215.0,76.0,2,True,Active,1,23.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429025?lang=en&region=us
+2982761,Andy Jones,222.0,73.0,3,True,FA,1,30.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2982761?lang=en&region=us
+4039299,Braylon Jones,301.0,75.0,1,True,FA,4,26.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039299?lang=en&region=us
+3173563,Brett Jones,318.0,74.0,7,True,FA,4,33.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3173563?lang=en&region=us
+4257188,Charlie Jones,183.0,72.0,2,True,Active,1,25.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4257188?lang=en&region=us
+4329471,J.J. Jones,174.0,70.0,2,True,FA,1,31.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4329471?lang=en&region=us
+4360637,Jeshaun Jones,188.0,73.0,0,True,Practice Squad,1,24.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360637?lang=en&region=us
+13982,Julio Jones,220.0,75.0,13,True,FA,1,35.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/13982?lang=en&region=us
+5082505,Latreal Jones,195.0,73.0,0,True,FA,1,25.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5082505?lang=en&region=us
+2586703,Tevin Jones,225.0,74.0,21,True,FA,1,31.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2586703?lang=en&region=us
+4245131,Tim Jones,200.0,73.0,3,True,Active,1,26.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4245131?lang=en&region=us
+3059722,Zay Jones,200.0,74.0,8,True,Active,1,29.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3059722?lang=en&region=us
+15072,Marvin Jones Jr.,199.0,74.0,12,True,FA,1,34.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15072?lang=en&region=us
+4035693,Velus Jones Jr.,200.0,72.0,3,True,Active,1,27.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035693?lang=en&region=us
+3886836,Travis Jonsen,211.0,76.0,1,True,FA,1,28.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3886836?lang=en&region=us
+4361178,Cam Jurgens,303.0,75.0,3,True,Active,4,25.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361178?lang=en&region=us
+4362010,Michael Jurgens,311.0,76.0,0,True,Active,4,24.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362010?lang=en&region=us
+3916744,Luke Juriga,301.0,76.0,2,True,FA,4,27.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916744?lang=en&region=us
+10503,Ryan Kalil,300.0,74.0,13,True,FA,4,39.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/10503?lang=en&region=us
+5145769,Jerome Kapp,210.0,75.0,0,True,FA,1,25.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5145769?lang=en&region=us
+2576188,Ted Karras,310.0,76.0,9,True,Active,4,31.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2576188?lang=en&region=us
+4047518,Kevin Kassis,197.0,72.0,0,True,FA,1,27.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047518?lang=en&region=us
+15428,Jermaine Kearse,209.0,73.0,8,True,FA,1,34.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15428?lang=en&region=us
+3916742,John Keenoy,300.0,75.0,0,True,FA,4,27.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916742?lang=en&region=us
+2578475,Ryan Kelly,307.0,76.0,9,True,Active,4,31.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2578475?lang=en&region=us
+3046399,Marcus Kemp,210.0,76.0,5,True,FA,1,29.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3046399?lang=en&region=us
+3126997,Tom Kennedy,195.0,70.0,3,True,Practice Squad,1,28.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126997?lang=en&region=us
+4372769,Lawrence Keys III,170.0,71.0,0,True,FA,1,24.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372769?lang=en&region=us
+4426399,Ramel Keyton,191.0,74.0,0,True,Practice Squad,1,24.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426399?lang=en&region=us
+3051650,Darvin Kidsy,180.0,72.0,1,True,FA,1,29.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3051650?lang=en&region=us
+14110,Daniel Kilgore,291.0,75.0,10,True,FA,4,36.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14110?lang=en&region=us
+4695358,Johnny King,209.0,77.0,0,True,FA,1,25.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4695358?lang=en&region=us
+4057082,Mason Kinsey,200.0,70.0,2,True,Practice Squad,1,26.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4057082?lang=en&region=us
+3895856,Christian Kirk,200.0,71.0,7,True,Active,1,27.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3895856?lang=en&region=us
+4242209,Jontre Kirklin,184.0,72.0,1,True,FA,1,26.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242209?lang=en&region=us
+3046401,Keith Kirkwood,210.0,75.0,5,True,Practice Squad,1,30.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3046401?lang=en&region=us
+4373077,Malik Knowles,196.0,74.0,2,True,Practice Squad,1,24.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4373077?lang=en&region=us
+4363528,Tanner Knue,178.0,71.0,0,True,Practice Squad,1,24.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4363528?lang=en&region=us
+2980597,Leo Koloamatangi,305.0,77.0,2,True,FA,4,30.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2980597?lang=en&region=us
+3910287,J.J. Koski,195.0,73.0,2,True,FA,1,27.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3910287?lang=en&region=us
+4047178,Doug Kramer Jr.,300.0,74.0,3,True,Active,4,26.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047178?lang=en&region=us
+3085107,Jake Kumerow,209.0,76.0,5,True,FA,1,32.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3085107?lang=en&region=us
+2977187,Cooper Kupp,207.0,74.0,8,True,Active,1,31.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2977187?lang=en&region=us
+5192438,JJ Laap,177.0,73.0,0,True,FA,1,23.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5192438?lang=en&region=us
+4682833,Jake Lacina,300.0,76.0,0,True,FA,4,28.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4682833?lang=en&region=us
+3122430,Chris Lacy,205.0,75.0,2,True,FA,1,28.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3122430?lang=en&region=us
+5041987,Brent Laing,304.0,75.0,1,True,FA,4,25.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5041987?lang=en&region=us
+4241389,CeeDee Lamb,200.0,74.0,5,True,Active,1,25.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241389?lang=en&region=us
+3057850,Jake Lampman,205.0,72.0,2,True,FA,1,31.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3057850?lang=en&region=us
+4259550,Matt Landers,200.0,76.0,1,True,FA,1,25.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259550?lang=en&region=us
+16790,Jarvis Landry,202.0,71.0,9,True,FA,1,31.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16790?lang=en&region=us
+17196,Tyler Larsen,335.0,76.0,8,True,FA,4,33.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17196?lang=en&region=us
+4035912,Kwamie Lassiter II,185.0,71.0,1,True,FA,1,26.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035912?lang=en&region=us
+16793,Cody Latimer,215.0,74.0,7,True,FA,1,32.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16793?lang=en&region=us
+4360730,Nolan Laufenberg,312.0,75.0,1,True,FA,4,25.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360730?lang=en&region=us
+3128390,Allen Lazard,227.0,77.0,6,True,Active,1,28.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128390?lang=en&region=us
+4248985,Shane Leatherbury,190.0,71.0,0,True,FA,1,,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4248985?lang=en&region=us
+4427773,Peter LeBlanc,189.0,74.0,0,True,FA,1,23.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4427773?lang=en&region=us
+4248503,Ed Lee,185.0,70.0,0,True,FA,1,,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4248503?lang=en&region=us
+4568986,Matt Lee,301.0,76.0,0,True,Active,4,23.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4568986?lang=en&region=us
+4035654,Riley Lees,192.0,72.0,0,True,FA,1,26.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035654?lang=en&region=us
+4430034,Xavier Legette,227.0,75.0,0,True,Active,1,23.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430034?lang=en&region=us
+3915142,Shane Lemieux,310.0,76.0,5,True,Day-To-Day,4,27.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915142?lang=en&region=us
+3049249,Lance Lenoir,210.0,71.0,3,True,FA,1,29.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3049249?lang=en&region=us
+4043185,Landon Lenoir,192.0,73.0,0,True,FA,1,,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4043185?lang=en&region=us
+2973637,Corey Levin,307.0,76.0,6,True,Practice Squad,4,30.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2973637?lang=en&region=us
+4401043,Brandon Lewis,175.0,69.0,0,True,FA,1,25.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4401043?lang=en&region=us
+2574918,Tommylee Lewis,168.0,67.0,4,True,FA,1,31.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2574918?lang=en&region=us
+4567175,Beaux Limmer,312.0,77.0,0,True,Active,4,23.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4567175?lang=en&region=us
+4027439,Talolo Limu-Jones,220.0,76.0,0,True,FA,1,,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4027439?lang=en&region=us
+4360499,Tyler Linderbaum,314.0,74.0,3,True,Active,4,24.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360499?lang=en&region=us
+4240801,Tyjon Lindsey,171.0,68.0,0,True,FA,1,25.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240801?lang=en&region=us
+4239950,Alec Lindstrom,300.0,75.0,1,True,FA,4,26.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4239950?lang=en&region=us
+4035277,Kalija Lipscomb,201.0,72.0,1,True,FA,1,27.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035277?lang=en&region=us
+5056465,Henry Litwin,195.0,73.0,0,True,FA,1,,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5056465?lang=en&region=us
+2577327,Tyler Lockett,182.0,70.0,10,True,Active,1,32.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2577327?lang=en&region=us
+4362029,Kai Locksley,210.0,76.0,0,True,FA,1,,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362029?lang=en&region=us
+3930064,DaMarkus Lodge,202.0,74.0,1,True,FA,1,27.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3930064?lang=en&region=us
+4426502,Drake London,213.0,76.0,3,True,Active,1,23.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426502?lang=en&region=us
+2971023,Ricardo Louis,215.0,74.0,4,True,FA,1,30.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2971023?lang=en&region=us
+4569597,Corey Luciano,307.0,76.0,1,True,FA,4,26.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569597?lang=en&region=us
+3122432,Brad Lundblade,295.0,75.0,1,True,FA,4,29.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3122432?lang=en&region=us
+4370162,T.J. Luther,189.0,71.0,1,True,FA,1,24.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4370162?lang=en&region=us
+4370883,Garett Maag,206.0,76.0,0,True,FA,1,24.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4370883?lang=en&region=us
+4040623,Austin Mack,215.0,74.0,2,True,FA,1,27.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4040623?lang=en&region=us
+4045291,Taysir Mack,190.0,74.0,0,True,FA,1,26.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4045291?lang=en&region=us
+4240425,Sean Maginn,298.0,75.0,0,True,FA,4,25.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240425?lang=en&region=us
+4240075,Justin Marshall,227.0,74.0,0,True,FA,1,25.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240075?lang=en&region=us
+4362630,Terrace Marshall Jr.,200.0,74.0,4,True,FA,1,24.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362630?lang=en&region=us
+16788,Marcus Martin,330.0,75.0,6,True,FA,4,30.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16788?lang=en&region=us
+2579850,Nick Martin,299.0,76.0,7,True,FA,4,31.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2579850?lang=en&region=us
+4258189,Oliver Martin,200.0,73.0,0,True,FA,1,25.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258189?lang=en&region=us
+5143863,Zay Malone,180.0,69.0,0,True,FA,1,24.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5143863?lang=en&region=us
+2516865,Greg Mancz,302.0,76.0,8,True,FA,4,32.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2516865?lang=en&region=us
+4389393,Zimari Manning,200.0,74.0,0,True,FA,1,29.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4389393?lang=en&region=us
+4361016,Siaosi Mariner,190.0,74.0,1,True,FA,1,27.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361016?lang=en&region=us
+17205,Freddie Martino,195.0,72.0,3,True,FA,1,33.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17205?lang=en&region=us
+4379569,Jesse Matthews,190.0,72.0,2,True,Practice Squad,1,25.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4379569?lang=en&region=us
+4055181,Frederick Mauigoa,310.0,76.0,0,True,FA,4,26.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4055181?lang=en&region=us
+4362214,Briason Mays,295.0,76.0,0,True,FA,4,24.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362214?lang=en&region=us
+4426948,Luke McCaffrey,198.0,74.0,0,True,Active,1,23.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426948?lang=en&region=us
+4243910,Khalil McClain,222.0,76.0,0,True,FA,1,25.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243910?lang=en&region=us
+3919609,Jalen McCleskey,178.0,70.0,1,True,FA,1,27.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3919609?lang=en&region=us
+3728262,Ray-Ray McCloud III,190.0,69.0,7,True,Active,1,28.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3728262?lang=en&region=us
+4035253,Ryan McCollum,300.0,77.0,2,True,Active,4,26.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035253?lang=en&region=us
+4612826,Ladd McConkey,185.0,72.0,0,True,Active,1,22.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4612826?lang=en&region=us
+3917331,Erik McCoy,303.0,76.0,6,True,Day-To-Day,4,27.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917331?lang=en&region=us
+4247812,Lance McCutcheon,202.0,75.0,2,True,Practice Squad,1,25.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4247812?lang=en&region=us
+4259775,Ryan McDaniel,215.0,74.0,0,True,FA,1,25.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259775?lang=en&region=us
+2577367,Connor McGovern,306.0,76.0,9,True,Active,4,31.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2577367?lang=en&region=us
+4242270,Kyric McGowan,198.0,71.0,1,True,FA,1,24.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242270?lang=en&region=us
+3128724,Isaiah McKenzie,173.0,67.0,8,True,FA,1,29.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128724?lang=en&region=us
+4046686,Javon McKinley,215.0,74.0,1,True,FA,1,26.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4046686?lang=en&region=us
+3915575,Kelvin McKnight,186.0,68.0,1,True,FA,1,27.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915575?lang=en&region=us
+4362352,Isaiah McKoy,200.0,74.0,0,True,FA,1,24.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362352?lang=en&region=us
+3121422,Terry McLaurin,210.0,72.0,6,True,Active,1,29.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3121422?lang=en&region=us
+4242231,Racey McMath,217.0,75.0,3,True,FA,1,25.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242231?lang=en&region=us
+4430834,Jalen McMillan,192.0,73.0,0,True,Active,1,22.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430834?lang=en&region=us
+4427985,Bub Means,215.0,74.0,0,True,Active,1,23.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4427985?lang=en&region=us
+3909123,Rashad Medaris,178.0,71.0,0,True,FA,1,28.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3909123?lang=en&region=us
+4259305,Bo Melton,189.0,71.0,1,True,Active,1,25.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259305?lang=en&region=us
+4045174,Michal Menet,301.0,76.0,1,True,FA,4,27.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4045174?lang=en&region=us
+3915145,Kirk Merritt,214.0,73.0,1,True,FA,1,27.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915145?lang=en&region=us
+4047650,DK Metcalf,235.0,76.0,6,True,Active,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047650?lang=en&region=us
+4567096,John Metchie III,195.0,72.0,2,True,Active,1,24.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4567096?lang=en&region=us
+4362064,Andrew Meyer,295.0,75.0,0,True,Active,4,24.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362064?lang=en&region=us
+3916433,Jakobi Meyers,200.0,74.0,6,True,Active,1,27.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916433?lang=en&region=us
+2591718,Marken Michel,191.0,71.0,1,True,FA,1,31.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2591718?lang=en&region=us
+3050487,Anthony Miller,190.0,71.0,6,True,Practice Squad,1,30.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3050487?lang=en&region=us
+4071091,Dre Miller,224.0,74.0,1,True,FA,1,26.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4071091?lang=en&region=us
+4369466,Ryan Miller,221.0,74.0,1,True,Practice Squad,1,24.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4369466?lang=en&region=us
+3914397,Scotty Miller,174.0,69.0,6,True,Active,1,27.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3914397?lang=en&region=us
+4373642,Dax Milne,190.0,73.0,4,True,FA,1,25.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4373642?lang=en&region=us
+4035403,Denzel Mims,207.0,75.0,4,True,FA,1,27.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035403?lang=en&region=us
+4686472,Marvin Mims Jr.,182.0,71.0,2,True,Active,1,22.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4686472?lang=en&region=us
+4426485,Jonathan Mingo,220.0,74.0,2,True,Active,1,23.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426485?lang=en&region=us
+4597500,Adonai Mitchell,205.0,74.0,0,True,Active,1,22.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4597500?lang=en&region=us
+3050661,Bryant Mitchell,198.0,74.0,0,True,FA,1,32.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3050661?lang=en&region=us
+4038938,Dillon Mitchell,202.0,73.0,0,True,FA,1,27.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4038938?lang=en&region=us
+4570106,Myron Mitchell,185.0,73.0,1,True,FA,1,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4570106?lang=en&region=us
+4035386,Osirus Mitchell,206.0,77.0,0,True,FA,1,27.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035386?lang=en&region=us
+3043225,Steven Mitchell Jr.,186.0,70.0,2,True,FA,1,30.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3043225?lang=en&region=us
+3127588,Sean Modster,183.0,71.0,1,True,FA,1,28.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3127588?lang=en&region=us
+4043629,Alex Mollette,294.0,76.0,1,True,FA,4,26.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4043629?lang=en&region=us
+16791,Donte Moncrief,216.0,74.0,8,True,FA,1,31.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16791?lang=en&region=us
+4428037,Jacob Monk,308.0,75.0,0,True,Active,4,23.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428037?lang=en&region=us
+3118134,Christian Montano,300.0,76.0,1,True,FA,4,,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3118134?lang=en&region=us
+4249030,D.J. Montgomery,201.0,73.0,4,True,Practice Squad,1,27.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4249030?lang=en&region=us
+2577134,Ty Montgomery II,220.0,72.0,9,True,FA,1,31.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2577134?lang=en&region=us
+4040655,Darnell Mooney,177.0,71.0,5,True,Active,1,26.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4040655?lang=en&region=us
+2576581,Chris Moore,200.0,73.0,9,True,Practice Squad,1,31.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2576581?lang=en&region=us
+4212909,David Moore,220.0,72.0,6,True,Active,1,29.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4212909?lang=en&region=us
+3915416,DJ Moore,210.0,71.0,7,True,Active,1,27.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915416?lang=en&region=us
+4372414,Elijah Moore,180.0,70.0,4,True,Active,1,24.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372414?lang=en&region=us
+3051857,J'Mon Moore,205.0,75.0,3,True,FA,1,29.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3051857?lang=en&region=us
+4069806,Jason Moore,213.0,74.0,4,True,FA,1,29.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4069806?lang=en&region=us
+3909416,Jaylon Moore,198.0,71.0,1,True,FA,1,27.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3909416?lang=en&region=us
+4372485,Rondale Moore,181.0,67.0,4,True,Day-To-Day,1,24.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372485?lang=en&region=us
+4430191,Skyy Moore,195.0,70.0,3,True,Active,1,24.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430191?lang=en&region=us
+4426990,Jalen Moreno-Cropper,172.0,72.0,1,True,Practice Squad,1,23.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426990?lang=en&region=us
+3699902,Stanley Morgan Jr.,205.0,72.0,5,True,FA,1,28.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3699902?lang=en&region=us
+3040013,Patrick Morris,300.0,75.0,2,True,FA,4,29.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3040013?lang=en&region=us
+4046165,Jimmy Morrissey,305.0,76.0,3,True,Practice Squad,4,26.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4046165?lang=en&region=us
+2514122,Mitch Morse,305.0,77.0,10,True,Active,4,32.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2514122?lang=en&region=us
+4428063,Tre Mosley,196.0,73.0,0,True,FA,1,23.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428063?lang=en&region=us
+2511330,Daniel Munyer,305.0,73.0,5,True,FA,4,32.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2511330?lang=en&region=us
+3048026,Jimmy Murray,305.0,77.0,3,True,FA,4,29.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3048026?lang=en&region=us
+3129307,Sam Mustipher,306.0,75.0,5,True,Active,4,28.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3129307?lang=en&region=us
+4242000,Josh Myers,310.0,77.0,4,True,Active,4,26.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242000?lang=en&region=us
+4595348,Malik Nabers,200.0,72.0,0,True,Active,1,21.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4595348?lang=en&region=us
+4426515,Puka Nacua,212.0,74.0,2,True,Day-To-Day,1,23.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426515?lang=en&region=us
+4048099,Samson Nacua,206.0,75.0,1,True,FA,1,26.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4048099?lang=en&region=us
+4382466,Jalen Nailor,190.0,72.0,3,True,Active,1,25.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4382466?lang=en&region=us
+2565338,Aaron Neary,299.0,76.0,1,True,FA,4,31.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2565338?lang=en&region=us
+2515759,J.J. Nelson,160.0,70.0,5,True,FA,1,32.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2515759?lang=en&region=us
+4240661,Dazz Newsome,184.0,70.0,1,True,FA,1,25.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240661?lang=en&region=us
+4426426,Joseph Ngata,217.0,75.0,1,True,FA,1,23.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426426?lang=en&region=us
+4367645,Hunter Nourzad,317.0,75.0,0,True,Active,4,23.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4367645?lang=en&region=us
+4362465,Michael Novitsky,309.0,75.0,0,True,FA,4,24.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362465?lang=en&region=us
+4428144,Drake Nugent,298.0,73.0,0,True,Practice Squad,4,23.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428144?lang=en&region=us
+4049294,Antonio Nunn,204.0,71.0,0,True,FA,1,28.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4049294?lang=en&region=us
+5215426,Praise Olatoke,205.0,74.0,0,True,Practice Squad,1,24.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5215426?lang=en&region=us
+4361370,Chris Olave,187.0,72.0,3,True,Active,1,24.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361370?lang=en&region=us
+4362617,Bryce Oliver,214.0,73.0,0,True,Practice Squad,1,24.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362617?lang=en&region=us
+4424106,Gunner Olszewski,190.0,72.0,6,True,Day-To-Day,1,27.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4424106?lang=en&region=us
+4370807,Olu Oluwatimi,309.0,75.0,1,True,Active,4,25.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4370807?lang=en&region=us
+3916566,K.J. Osborn,200.0,72.0,5,True,Active,1,27.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916566?lang=en&region=us
+4040718,Chris Owens,305.0,75.0,0,True,FA,4,26.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4040718?lang=en&region=us
+4571579,Terique Owens,193.0,75.0,0,True,Practice Squad,1,25.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4571579?lang=en&region=us
+4242433,Joshua Palmer,210.0,73.0,4,True,Active,1,25.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242433?lang=en&region=us
+4875912,Tejhaun Palmer,210.0,74.0,0,True,Practice Squad,1,24.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4875912?lang=en&region=us
+4426407,Trey Palmer,190.0,73.0,2,True,Active,1,23.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426407?lang=en&region=us
+4046721,Mike Panasiuk,294.0,75.0,2,True,FA,4,27.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4046721?lang=en&region=us
+16847,Matt Paradis,300.0,75.0,7,True,FA,4,35.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16847?lang=en&region=us
+4039468,Andrew Parchment,190.0,74.0,0,True,FA,1,26.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039468?lang=en&region=us
+4032749,Aaron Parker,209.0,74.0,1,True,FA,1,26.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4032749?lang=en&region=us
+2978109,Zach Pascal,215.0,74.0,7,True,Active,1,29.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2978109?lang=en&region=us
+4054085,Dezmon Patmon,225.0,76.0,3,True,FA,1,26.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4054085?lang=en&region=us
+3134353,Tim Patrick,210.0,77.0,7,True,Active,1,30.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3134353?lang=en&region=us
+4372774,Jarrett Patterson,310.0,76.0,2,True,Active,4,25.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372774?lang=en&region=us
+3691031,Javon Patterson,307.0,75.0,2,True,FA,4,27.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3691031?lang=en&region=us
+3047504,Andre Patton,200.0,74.0,3,True,FA,1,30.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3047504?lang=en&region=us
+4242377,Neil Pau'u,215.0,76.0,0,True,FA,1,29.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242377?lang=en&region=us
+4568063,JaVonta Payton,180.0,73.0,0,True,FA,1,26.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4568063?lang=en&region=us
+2576498,Charone Peake,209.0,74.0,4,True,FA,1,32.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2576498?lang=en&region=us
+4428209,Ricky Pearsall,192.0,75.0,0,True,Active,1,24.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428209?lang=en&region=us
+4368796,Josh Pearson,205.0,76.0,1,True,FA,1,27.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4368796?lang=en&region=us
+4258195,Donovan Peoples-Jones,204.0,74.0,5,True,Practice Squad,1,25.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258195?lang=en&region=us
+2972460,Breshad Perriman,215.0,74.0,9,True,FA,1,31.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2972460?lang=en&region=us
+4362019,A.T. Perry,205.0,77.0,2,True,Practice Squad,1,24.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362019?lang=en&region=us
+14070,Mike Person,305.0,76.0,9,True,FA,4,36.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14070?lang=en&region=us
+3127306,Dante Pettis,195.0,73.0,6,True,Practice Squad,1,28.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3127306?lang=en&region=us
+3910265,Devin Phelps,190.0,73.0,0,True,FA,1,,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3910265?lang=en&region=us
+3121398,De'Mornay Pierson-El,185.0,69.0,1,True,FA,1,28.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3121398?lang=en&region=us
+4240557,Alex Pihlstrom,305.0,78.0,0,True,FA,4,25.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240557?lang=en&region=us
+4240866,Kalil Pimpleton,172.0,69.0,1,True,FA,1,25.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240866?lang=en&region=us
+4361915,Sam Pinckney,220.0,76.0,0,True,FA,1,24.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361915?lang=en&region=us
+3915470,Danny Pinter,301.0,76.0,5,True,Active,4,28.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915470?lang=en&region=us
+4035687,Michael Pittman Jr.,223.0,76.0,5,True,Active,1,27.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035687?lang=en&region=us
+4248099,Thyrick Pitts,201.0,74.0,1,True,FA,1,23.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4248099?lang=en&region=us
+3042738,Ethan Pocic,320.0,78.0,8,True,Active,4,29.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3042738?lang=en&region=us
+4258235,Whop Philyor,182.0,71.0,0,True,FA,1,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258235?lang=en&region=us
+4426354,George Pickens,200.0,75.0,3,True,Active,1,23.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426354?lang=en&region=us
+4360078,Alec Pierce,211.0,75.0,3,True,Active,1,24.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360078?lang=en&region=us
+4039604,Shawn Poindexter,213.0,77.0,2,True,FA,1,28.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039604?lang=en&region=us
+3929652,Brandon Polk,175.0,69.0,0,True,FA,1,27.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3929652?lang=en&region=us
+4430637,Ja'Lynn Polk,203.0,73.0,0,True,Active,1,22.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430637?lang=en&region=us
+4430325,Makai Polk,192.0,75.0,1,True,FA,1,23.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430325?lang=en&region=us
+4035480,Sean Pollard,322.0,77.0,0,True,FA,4,26.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035480?lang=en&region=us
+3115255,Brandon Powell,181.0,68.0,7,True,Active,1,29.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115255?lang=en&region=us
+4035465,Cornell Powell,204.0,72.0,1,True,FA,1,26.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035465?lang=en&region=us
+3051407,Billy Price,308.0,76.0,6,True,FA,4,29.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3051407?lang=en&region=us
+4036416,Byron Pringle,203.0,73.0,6,True,FA,1,30.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4036416?lang=en&region=us
+3916204,James Proche II,193.0,71.0,5,True,Practice Squad,1,28.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916204?lang=en&region=us
+4239406,Blake Proehl,190.0,73.0,3,True,FA,1,25.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4239406?lang=en&region=us
+4035776,Kendric Pryor,189.0,71.0,2,True,Practice Squad,1,26.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035776?lang=en&region=us
+2577792,Spencer Pulley,311.0,76.0,6,True,FA,4,31.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2577792?lang=en&region=us
+4426393,Will Putnam,310.0,76.0,0,True,Practice Squad,4,24.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426393?lang=en&region=us
+3047572,Scott Quessenberry,310.0,75.0,6,True,Practice Squad,4,29.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3047572?lang=en&region=us
+3115365,Trey Quinn,200.0,72.0,3,True,FA,1,28.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115365?lang=en&region=us
+3128689,Frank Ragnow,310.0,77.0,7,True,Active,4,28.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128689?lang=en&region=us
+4241397,Charleston Rambo,185.0,73.0,1,True,FA,1,25.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241397?lang=en&region=us
+3895857,Damion Ratley,200.0,74.0,4,True,FA,1,29.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3895857?lang=en&region=us
+3895828,Anthony Ratliff-Williams,205.0,73.0,1,True,FA,1,27.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3895828?lang=en&region=us
+2973405,Kalif Raymond,180.0,68.0,8,True,Active,1,30.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2973405?lang=en&region=us
+4241802,Jalen Reagor,197.0,71.0,5,True,Active,1,25.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241802?lang=en&region=us
+2566609,Adam Redmond,290.0,78.0,3,True,FA,4,31.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2566609?lang=en&region=us
+4362249,Jayden Reed,187.0,71.0,2,True,Active,1,24.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362249?lang=en&region=us
+5208436,Louis Rees-Zammit,209.0,74.0,0,True,Practice Squad,1,23.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5208436?lang=en&region=us
+2514816,Austin Reiter,301.0,75.0,7,True,Practice Squad,4,32.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2514816?lang=en&region=us
+4372716,Nikko Remigio,187.0,69.0,2,True,Practice Squad,1,24.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372716?lang=en&region=us
+3144996,Keegan Render,307.0,76.0,0,True,FA,4,28.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3144996?lang=en&region=us
+3135321,Hunter Renfrow,185.0,70.0,5,True,Active,1,28.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3135321?lang=en&region=us
+3115306,Josh Reynolds,192.0,75.0,7,True,Day-To-Day,1,29.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115306?lang=en&region=us
+4686781,Brenden Rice,210.0,75.0,0,True,Active,1,22.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4686781?lang=en&region=us
+4428331,Rashee Rice,204.0,73.0,2,True,Day-To-Day,1,24.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428331?lang=en&region=us
+3124369,A.J. Richardson,212.0,72.0,1,True,FA,1,29.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3124369?lang=en&region=us
+16781,Paul Richardson Jr.,180.0,72.0,6,True,FA,1,32.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16781?lang=en&region=us
+3925357,Calvin Ridley,190.0,73.0,6,True,Active,1,29.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3925357?lang=en&region=us
+4035015,Riley Ridley,200.0,73.0,3,True,FA,1,28.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035015?lang=en&region=us
+4360803,Marcus Riley,175.0,71.0,0,True,Day-To-Day,1,25.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360803?lang=en&region=us
+4037124,Sean Riley,178.0,68.0,0,True,FA,1,,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4037124?lang=en&region=us
+4812371,Darece Roberson,170.0,69.0,0,True,FA,1,,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4812371?lang=en&region=us
+4240429,Jaquarii Roberson,182.0,73.0,0,True,FA,1,26.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240429?lang=en&region=us
+4241888,Reggie Roberson Jr.,193.0,71.0,1,True,FA,1,26.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241888?lang=en&region=us
+13226,Andre Roberts,195.0,71.0,13,True,FA,1,36.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/13226?lang=en&region=us
+17402,Seth Roberts,195.0,74.0,6,True,FA,1,33.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17402?lang=en&region=us
+4035851,Demetris Robertson,185.0,72.0,0,True,FA,1,,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035851?lang=en&region=us
+16799,Allen Robinson,210.0,74.0,11,True,Active,1,31.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16799?lang=en&region=us
+3043116,Demarcus Robinson,202.0,73.0,9,True,Active,1,30.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3043116?lang=en&region=us
+4428367,Tayvion Robinson,191.0,70.0,0,True,FA,1,,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428367?lang=en&region=us
+4569587,Wan'Dale Robinson,185.0,68.0,3,True,Active,1,23.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569587?lang=en&region=us
+4360329,Stephon Robinson Jr.,180.0,70.0,0,True,FA,1,,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360329?lang=en&region=us
+4239992,Amari Rodgers,212.0,69.0,3,True,FA,1,25.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4239992?lang=en&region=us
+2983209,Chester Rogers,180.0,73.0,6,True,FA,1,30.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2983209?lang=en&region=us
+4429019,Marcus Rosemy-Jacksaint,205.0,73.0,0,True,Practice Squad,1,22.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429019?lang=en&region=us
+3052122,Devin Ross,192.0,69.0,4,True,FA,1,29.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3052122?lang=en&region=us
+3052177,John Ross,190.0,71.0,6,True,Practice Squad,1,28.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3052177?lang=en&region=us
+4360306,Justyn Ross,210.0,76.0,3,True,Practice Squad,1,24.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360306?lang=en&region=us
+3939146,Marvelle Ross,180.0,69.0,0,True,FA,1,28.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3939146?lang=en&region=us
+2976182,Chase Roullier,312.0,76.0,6,True,FA,4,31.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2976182?lang=en&region=us
+4052137,Chris Rowland,170.0,68.0,1,True,FA,1,26.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4052137?lang=en&region=us
+4603275,Wayne Ruby,190.0,73.0,0,True,FA,1,24.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4603275?lang=en&region=us
+4241475,Henry Ruggs III,190.0,72.0,2,True,FA,1,25.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241475?lang=en&region=us
+4258199,Cesar Ruiz,316.0,76.0,5,True,Active,4,25.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258199?lang=en&region=us
+4040430,Kody Russey,295.0,74.0,2,True,FA,4,26.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4040430?lang=en&region=us
+4360972,Sean Ryan,200.0,75.0,1,True,FA,1,25.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360972?lang=en&region=us
+4428421,Nick Samac,314.0,76.0,0,True,Active,4,23.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428421?lang=en&region=us
+4608294,Jalen Sample,200.0,76.0,0,True,FA,1,25.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4608294?lang=en&region=us
+3121427,Curtis Samuel,195.0,71.0,8,True,Active,1,28.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3121427?lang=en&region=us
+3126486,Deebo Samuel Sr.,215.0,72.0,6,True,Active,1,28.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126486?lang=en&region=us
+4259908,Braylon Sanders,190.0,73.0,1,True,FA,1,25.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259908?lang=en&region=us
+13295,Emmanuel Sanders,180.0,71.0,12,True,FA,1,37.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/13295?lang=en&region=us
+14922,Mohamed Sanu,210.0,74.0,11,True,FA,1,35.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14922?lang=en&region=us
+4040627,C.J. Saunders,190.0,70.0,1,True,FA,1,28.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4040627?lang=en&region=us
+4259240,Savon Scarver,175.0,71.0,0,True,FA,1,,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259240?lang=en&region=us
+4361736,Joseph Scates,210.0,74.0,0,True,FA,1,24.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361736?lang=en&region=us
+4038544,Austin Schlottmann,300.0,78.0,6,True,Day-To-Day,4,29.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4038544?lang=en&region=us
+4240771,John Michael Schmitz Jr.,320.0,76.0,2,True,Active,4,25.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240771?lang=en&region=us
+4384608,Sam Schnee,191.0,70.0,0,True,FA,1,24.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4384608?lang=en&region=us
+4243554,Cole Schneider,309.0,75.0,1,True,FA,4,26.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243554?lang=en&region=us
+3126075,Spencer Schnell,178.0,68.0,0,True,FA,1,29.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126075?lang=en&region=us
+3916124,Dalton Schoen,206.0,73.0,1,True,FA,1,28.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916124?lang=en&region=us
+4371986,Anthony Schwartz,186.0,72.0,3,True,Day-To-Day,1,24.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4371986?lang=en&region=us
+3122839,Artavis Scott,195.0,71.0,2,True,FA,1,30.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3122839?lang=en&region=us
+3122167,Caleb Scott,203.0,74.0,1,True,FA,1,28.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3122167?lang=en&region=us
+3056577,Da'Mari Scott,205.0,72.0,2,True,FA,1,29.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3056577?lang=en&region=us
+4040792,Jaleel Scott,210.0,77.0,3,True,FA,1,29.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4040792?lang=en&region=us
+4362560,Ty Scott,199.0,73.0,1,True,FA,1,25.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362560?lang=en&region=us
+4565908,Tyler Scott,185.0,71.0,2,True,Active,1,23.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4565908?lang=en&region=us
+4361425,Juice Scruggs,310.0,75.0,2,True,Active,4,24.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361425?lang=en&region=us
+4365503,Kevin Shaa,166.0,70.0,0,True,FA,1,26.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4365503?lang=en&region=us
+4039042,Zach Shackelford,305.0,76.0,0,True,FA,4,27.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039042?lang=en&region=us
+4032473,Rashid Shaheed,180.0,72.0,3,True,Day-To-Day,1,26.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4032473?lang=en&region=us
+4373678,Khalil Shakir,190.0,72.0,3,True,Active,1,24.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4373678?lang=en&region=us
+4031104,Liam Shanahan,300.0,77.0,0,True,FA,4,,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4031104?lang=en&region=us
+2982828,Tajae Sharpe,194.0,74.0,7,True,FA,1,29.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2982828?lang=en&region=us
+17037,Tyler Shatley,305.0,75.0,11,True,FA,4,33.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17037?lang=en&region=us
+4241476,Tyrell Shavers,211.0,76.0,1,True,Practice Squad,1,25.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241476?lang=en&region=us
+5209803,Kyle Sheets,220.0,76.0,0,True,FA,1,,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5209803?lang=en&region=us
+3052180,Coleman Shelton,285.0,77.0,6,True,Active,4,29.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3052180?lang=en&region=us
+4051242,Justice Shelton-Mosley,196.0,70.0,0,True,FA,1,27.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4051242?lang=en&region=us
+4243160,Laviska Shenault Jr.,225.0,73.0,5,True,Active,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243160?lang=en&region=us
+16227,Russell Shepard,195.0,72.0,7,True,FA,1,34.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16227?lang=en&region=us
+2976592,Sterling Shepard,194.0,70.0,9,True,Active,1,31.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2976592?lang=en&region=us
+3120588,Darrius Shepherd,186.0,71.0,3,True,FA,1,28.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3120588?lang=en&region=us
+3122168,Trent Sherfield Sr.,206.0,73.0,7,True,Active,1,28.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3122168?lang=en&region=us
+3871102,David Sills V,211.0,75.0,3,True,Practice Squad,1,28.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3871102?lang=en&region=us
+4040723,T.J. Simmons,198.0,74.0,0,True,FA,1,,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4040723?lang=en&region=us
+4035018,Tyler Simmons,201.0,72.0,1,True,FA,1,26.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035018?lang=en&region=us
+4039244,Marcus Simms,197.0,72.0,2,True,Day-To-Day,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039244?lang=en&region=us
+3932355,Micah Simon,195.0,73.0,0,True,FA,1,27.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932355?lang=en&region=us
+3115314,Cam Sims,214.0,77.0,6,True,FA,1,28.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115314?lang=en&region=us
+3917960,Steven Sims,176.0,70.0,4,True,Active,1,27.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917960?lang=en&region=us
+2576733,Matt Skura,313.0,75.0,7,True,FA,4,31.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2576733?lang=en&region=us
+3916945,Darius Slayton,198.0,73.0,6,True,Active,1,27.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916945?lang=en&region=us
+5209094,Derek Slywka,215.0,75.0,0,True,FA,1,23.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5209094?lang=en&region=us
+4570219,Jared Smart,189.0,71.0,0,True,FA,1,,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4570219?lang=en&region=us
+4428532,Ainias Smith,176.0,69.0,0,True,Day-To-Day,1,23.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428532?lang=en&region=us
+4240577,Brandon Smith,220.0,74.0,1,True,Practice Squad,1,25.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240577?lang=en&region=us
+4241478,DeVonta Smith,170.0,72.0,4,True,Active,1,25.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241478?lang=en&region=us
+3916418,Jaylen Smith,227.0,74.0,1,True,FA,1,27.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916418?lang=en&region=us
+3929118,Jeff Smith,195.0,73.0,4,True,FA,1,27.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3929118?lang=en&region=us
+4260223,Lecitus Smith,314.0,75.0,2,True,Active,4,26.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4260223?lang=en&region=us
+16373,Rodney Smith,219.0,78.0,5,True,FA,1,34.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16373?lang=en&region=us
+4259499,Shi Smith,190.0,70.0,3,True,FA,1,25.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259499?lang=en&region=us
+3128451,Tre'Quan Smith,210.0,74.0,6,True,Day-To-Day,1,28.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128451?lang=en&region=us
+3155188,Vyncint Smith,195.0,75.0,4,True,FA,1,28.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3155188?lang=en&region=us
+4386544,Xavier Smith,176.0,69.0,1,True,Active,1,27.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4386544?lang=en&region=us
+4240573,Ihmir Smith-Marsette,185.0,73.0,4,True,Active,1,25.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240573?lang=en&region=us
+4430878,Jaxon Smith-Njigba,197.0,72.0,2,True,Active,1,22.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430878?lang=en&region=us
+3120348,JuJu Smith-Schuster,215.0,73.0,8,True,Active,1,27.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3120348?lang=en&region=us
+4382578,Tyler Snead,174.0,67.0,0,True,FA,1,24.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4382578?lang=en&region=us
+17258,Willie Snead IV,195.0,71.0,8,True,FA,1,32.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17258?lang=en&region=us
+4031931,Josh Sokol,290.0,75.0,1,True,FA,4,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4031931?lang=en&region=us
+17463,Diontae Spencer,170.0,68.0,4,True,Day-To-Day,1,32.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17463?lang=en&region=us
+4374302,Amon-Ra St. Brown,202.0,72.0,4,True,Active,1,24.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4374302?lang=en&region=us
+3932442,Equanimeous St. Brown,214.0,77.0,7,True,Practice Squad,1,28.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932442?lang=en&region=us
+4360649,Dimitri Stanley,200.0,72.0,0,True,FA,1,24.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360649?lang=en&region=us
+3126490,Donell Stanley,324.0,76.0,1,True,FA,4,29.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126490?lang=en&region=us
+4370451,Rory Starkey,214.0,72.0,0,True,FA,1,,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4370451?lang=en&region=us
+4038966,Jack Sorenson,192.0,72.0,0,True,FA,1,27.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4038966?lang=en&region=us
+4383723,Jerreth Sterns,195.0,69.0,0,True,FA,1,25.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4383723?lang=en&region=us
+4039307,Marquez Stevenson,180.0,70.0,2,True,FA,1,26.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039307?lang=en&region=us
+4002656,Dez Stewart,200.0,74.0,1,True,FA,1,31.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4002656?lang=en&region=us
+3929831,Darrell Stewart Jr.,216.0,74.0,0,True,FA,1,28.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3929831?lang=en&region=us
+16016,Kenny Stills,202.0,73.0,9,True,FA,1,32.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16016?lang=en&region=us
+4038460,Dillon Stoner,194.0,72.0,2,True,FA,1,26.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4038460?lang=en&region=us
+4360282,Drake Stoops,189.0,70.0,0,True,Practice Squad,1,25.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360282?lang=en&region=us
+4035500,Eli Stove,191.0,72.0,0,True,FA,1,,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035500?lang=en&region=us
+4589245,Mike Strachan,225.0,77.0,4,True,FA,1,27.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4589245?lang=en&region=us
+4567173,Ricky Stromberg,313.0,76.0,2,True,FA,4,23.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4567173?lang=en&region=us
+3128429,Courtland Sutton,216.0,76.0,7,True,Active,1,29.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128429?lang=en&region=us
+4034950,Freddie Swain,199.0,72.0,4,True,FA,1,26.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4034950?lang=en&region=us
+3039725,Ryan Switzer,183.0,69.0,4,True,FA,1,29.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3039725?lang=en&region=us
+4842342,Donte Sylencieux,,,0,True,FA,1,,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4842342?lang=en&region=us
+3921564,Auden Tate,228.0,77.0,5,True,FA,1,27.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3921564?lang=en&region=us
+13217,Golden Tate,191.0,71.0,12,True,FA,1,36.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/13217?lang=en&region=us
+4039602,Khalil Tate,216.0,72.0,0,True,FA,1,25.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039602?lang=en&region=us
+4408988,Malik Taylor,220.0,73.0,3,True,Day-To-Day,1,28.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4408988?lang=en&region=us
+3059760,Taywan Taylor,205.0,71.0,5,True,FA,1,29.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3059760?lang=en&region=us
+3040569,Trent Taylor,178.0,68.0,7,True,Practice Squad,1,30.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3040569?lang=en&region=us
+3928936,Sam Tecklenburg,310.0,76.0,2,True,FA,4,27.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3928936?lang=en&region=us
+4240028,Tamorrion Terry,207.0,75.0,0,True,FA,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240028?lang=en&region=us
+16460,Adam Thielen,195.0,74.0,11,True,Day-To-Day,1,34.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16460?lang=en&region=us
+16945,De'Anthony Thomas,176.0,68.0,7,True,FA,1,31.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16945?lang=en&region=us
+4240626,Jeff Thomas,174.0,70.0,0,True,FA,1,26.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240626?lang=en&region=us
+2976316,Michael Thomas,212.0,75.0,8,True,FA,1,31.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2976316?lang=en&region=us
+3123986,Mike Thomas,200.0,73.0,8,True,FA,1,30.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3123986?lang=en&region=us
+4240121,Thayer Thomas,195.0,72.0,1,True,Practice Squad,1,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240121?lang=en&region=us
+4432773,Brian Thomas Jr.,205.0,76.0,0,True,Active,1,22.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4432773?lang=en&region=us
+3116182,DeAndre Thompkins,188.0,71.0,1,True,FA,1,29.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3116182?lang=en&region=us
+4374187,Deven Thompkins,155.0,68.0,3,True,Practice Squad,1,24.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4374187?lang=en&region=us
+4243261,Bryan Thompson,195.0,73.0,1,True,FA,1,25.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243261?lang=en&region=us
+3054970,Chris Thompson,175.0,72.0,2,True,FA,1,30.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3054970?lang=en&region=us
+3126115,Cody Thompson,205.0,74.0,3,True,Practice Squad,1,28.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126115?lang=en&region=us
+4242243,Keytaon Thompson,216.0,77.0,0,True,FA,1,,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242243?lang=en&region=us
+3122838,Trevion Thompson,200.0,74.0,0,True,FA,1,28.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3122838?lang=en&region=us
+4362921,Tyquan Thornton,185.0,74.0,3,True,Active,1,24.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362921?lang=en&region=us
+4428678,Jamari Thrash,190.0,72.0,0,True,Active,1,23.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428678?lang=en&region=us
+4369863,Cedric Tillman,215.0,75.0,2,True,Active,1,24.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4369863?lang=en&region=us
+4690070,Mitchell Tinsley,205.0,73.0,2,True,Practice Squad,1,25.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4690070?lang=en&region=us
+4428681,Joe Tippmann,313.0,78.0,2,True,Active,4,23.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428681?lang=en&region=us
+4573697,Mason Tipton,187.0,71.0,0,True,Active,1,24.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4573697?lang=en&region=us
+4047529,Travis Toivonen,212.0,76.0,1,True,FA,1,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047529?lang=en&region=us
+4249417,Jalen Tolbert,195.0,73.0,3,True,Active,1,25.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4249417?lang=en&region=us
+3060000,Cameron Tom,287.0,76.0,5,True,Practice Squad,4,29.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3060000?lang=en&region=us
+4240600,Kadarius Toney,193.0,72.0,4,True,Practice Squad,1,25.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240600?lang=en&region=us
+2971093,Jon Toth,308.0,77.0,2,True,FA,4,30.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2971093?lang=en&region=us
+4027873,Samori Toure,191.0,73.0,3,True,Practice Squad,1,26.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4027873?lang=en&region=us
+4244856,Austin Trammell,185.0,70.0,3,True,Practice Squad,1,26.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4244856?lang=en&region=us
+3051889,Laquon Treadwell,215.0,74.0,6,True,Practice Squad,1,29.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3051889?lang=en&region=us
+4360763,Brycen Tremayne,212.0,76.0,1,True,Practice Squad,1,24.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360763?lang=en&region=us
+16001,JC Tretter,307.0,76.0,9,True,FA,4,33.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16001?lang=en&region=us
+3163365,Nate Trewyn,315.0,76.0,0,True,FA,4,28.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3163365?lang=en&region=us
+4428718,Tre Tucker,185.0,69.0,2,True,Active,1,23.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428718?lang=en&region=us
+5033305,Anthony Turner,221.0,76.0,0,True,FA,1,,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5033305?lang=en&region=us
+4036211,DJ Turner,205.0,69.0,3,True,Active,1,27.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4036211?lang=en&region=us
+3115928,Malik Turner,202.0,74.0,5,True,FA,1,28.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115928?lang=en&region=us
+4568014,Charles Turner III,303.0,76.0,0,True,FA,4,23.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4568014?lang=en&region=us
+3676833,KaVontae Turpin,153.0,69.0,3,True,Active,1,28.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3676833?lang=en&region=us
+4361511,Alama Uluave,308.0,74.0,0,True,FA,4,25.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361511?lang=en&region=us
+3051738,Marquez Valdes-Scantling,206.0,76.0,7,True,FA,1,30.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3051738?lang=en&region=us
+4430815,Sedrick Van Pran-Granger,310.0,76.0,0,True,Active,4,22.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430815?lang=en&region=us
+4362862,Josh Vann,192.0,71.0,0,True,FA,1,24.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362862?lang=en&region=us
+4043158,T.J. Vasher,210.0,77.0,1,True,FA,1,26.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4043158?lang=en&region=us
+4035692,Tyler Vaughns,184.0,74.0,1,True,FA,1,27.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035692?lang=en&region=us
+4035853,Jordan Veasy,221.0,75.0,1,True,FA,1,29.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035853?lang=en&region=us
+4569559,Devaughn Vele,210.0,77.0,0,True,Active,1,26.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569559?lang=en&region=us
+4040628,Binjimen Victor,191.0,76.0,1,True,FA,1,27.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4040628?lang=en&region=us
+4428753,Lincoln Victor,177.0,69.0,0,True,FA,1,,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428753?lang=en&region=us
+4036448,Jalen Virgil,210.0,73.0,3,True,Practice Squad,1,26.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4036448?lang=en&region=us
+3120593,Tanner Volson,306.0,76.0,0,True,FA,4,28.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3120593?lang=en&region=us
+4372016,Jaylen Waddle,185.0,70.0,4,True,Active,1,25.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372016?lang=en&region=us
+4428763,Dayton Wade,184.0,69.0,0,True,Practice Squad,1,24.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428763?lang=en&region=us
+3935018,Ahmad Wagner,234.0,77.0,0,True,FA,1,27.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3935018?lang=en&region=us
+4696882,Devontez Walker,198.0,73.0,0,True,Active,1,23.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4696882?lang=en&region=us
+4242328,Tre Walker,180.0,71.0,0,True,FA,1,,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242328?lang=en&region=us
+4240819,Kade Warner,201.0,73.0,0,True,FA,1,26.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240819?lang=en&region=us
+4428796,Casey Washington,200.0,72.0,0,True,Active,1,23.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428796?lang=en&region=us
+4574730,Isaiah Washington,214.0,74.0,0,True,FA,1,23.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4574730?lang=en&region=us
+3122449,James Washington,209.0,73.0,6,True,FA,1,28.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3122449?lang=en&region=us
+4569603,Malik Washington,191.0,68.0,0,True,Active,1,23.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569603?lang=en&region=us
+4241424,Tylan Wallace,202.0,71.0,4,True,Active,1,25.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241424?lang=en&region=us
+5215032,David Wallis,184.0,72.0,0,True,FA,1,23.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5215032?lang=en&region=us
+3040035,Greg Ward,186.0,71.0,4,True,FA,1,29.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3040035?lang=en&region=us
+4373937,JoJo Ward,175.0,69.0,1,True,FA,1,26.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4373937?lang=en&region=us
+4567506,Tahj Washington,174.0,70.0,0,True,Day-To-Day,1,23.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4567506?lang=en&region=us
+4050373,Quez Watkins,193.0,72.0,5,True,Practice Squad,1,26.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4050373?lang=en&region=us
+16725,Sammy Watkins,211.0,73.0,9,True,FA,1,31.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16725?lang=en&region=us
+4363409,Austin Watkins Jr.,210.0,75.0,1,True,FA,1,26.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4363409?lang=en&region=us
+4248528,Christian Watson,208.0,76.0,3,True,Active,1,25.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4248528?lang=en&region=us
+3118892,Justin Watson,215.0,74.0,7,True,Active,1,28.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3118892?lang=en&region=us
+4039018,Luke Wattenberg,300.0,77.0,3,True,Day-To-Day,4,27.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039018?lang=en&region=us
+4685037,Duece Watts,196.0,73.0,1,True,FA,1,24.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4685037?lang=en&region=us
+4249426,Jalen Wayne,210.0,74.0,1,True,FA,1,25.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4249426?lang=en&region=us
+4430681,Jared Wayne,210.0,75.0,1,True,Practice Squad,1,24.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430681?lang=en&region=us
+3045164,Jester Weah,209.0,75.0,1,True,FA,1,29.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3045164?lang=en&region=us
+4037444,Isaac Weaver,310.0,78.0,2,True,FA,4,26.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4037444?lang=en&region=us
+4428811,Xavier Weaver,180.0,73.0,0,True,Active,1,24.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428811?lang=en&region=us
+4032247,Raleigh Webb,204.0,74.0,2,True,FA,1,26.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4032247?lang=en&region=us
+4242545,Connor Wedington,200.0,72.0,1,True,FA,1,25.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242545?lang=en&region=us
+3121110,Alex Wesley,190.0,72.0,0,True,FA,1,28.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3121110?lang=en&region=us
+4043161,Antoine Wesley,206.0,76.0,5,True,FA,1,26.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4043161?lang=en&region=us
+4428825,Dohnovan West,282.0,76.0,0,True,FA,4,23.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428825?lang=en&region=us
+3892889,Dede Westbrook,178.0,72.0,6,True,FA,1,30.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3892889?lang=en&region=us
+3929785,Nick Westbrook-Ikhine,211.0,74.0,5,True,Active,1,27.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3929785?lang=en&region=us
+4028745,Braxton Westfield,205.0,76.0,0,True,FA,1,,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4028745?lang=en&region=us
+4570449,Keric Wheatfall,194.0,73.0,0,True,FA,1,25.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4570449?lang=en&region=us
+4241983,Cody White,215.0,75.0,2,True,Practice Squad,1,25.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241983?lang=en&region=us
+2515962,DeAndrew White,195.0,72.0,3,True,FA,1,33.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2515962?lang=en&region=us
+3916085,Ka'Raun White,206.0,73.0,0,True,FA,1,31.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916085?lang=en&region=us
+3042435,Kevin White,216.0,75.0,6,True,FA,1,32.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3042435?lang=en&region=us
+3915403,Tim White,185.0,70.0,2,True,FA,1,30.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915403?lang=en&region=us
+4569393,Xavier White,190.0,70.0,0,True,FA,1,,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569393?lang=en&region=us
+3045379,Kermit Whitfield,192.0,68.0,1,True,FA,1,31.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3045379?lang=en&region=us
+3894883,Isaac Whitney,204.0,74.0,2,True,FA,1,30.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3894883?lang=en&region=us
+4569382,Jordan Whittington,202.0,73.0,0,True,Active,1,24.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569382?lang=en&region=us
+4428850,Dontayvion Wicks,206.0,73.0,2,True,Active,1,23.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4428850?lang=en&region=us
+4385438,Sam Wiglusz,187.0,72.0,0,True,Practice Squad,1,25.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4385438?lang=en&region=us
+3910176,Kristian Wilkerson,214.0,73.0,3,True,Active,1,27.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3910176?lang=en&region=us
+4368630,Bucky Williams,300.0,75.0,0,True,Day-To-Day,4,24.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4368630?lang=en&region=us
+3066052,Chad Williams,204.0,74.0,3,True,FA,1,30.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3066052?lang=en&region=us
+3821577,Connor Williams,317.0,77.0,7,True,Active,4,27.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3821577?lang=en&region=us
+3060347,Daniel Williams,200.0,75.0,0,True,FA,1,29.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3060347?lang=en&region=us
+3917290,Darryl Williams,304.0,74.0,1,True,FA,4,27.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917290?lang=en&region=us
+4374298,Devon Williams,211.0,77.0,0,True,FA,1,24.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4374298?lang=en&region=us
+3115315,Duke Williams,225.0,75.0,2,True,FA,1,31.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115315?lang=en&region=us
+4569371,Isaiah Williams,186.0,70.0,0,True,Active,1,23.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569371?lang=en&region=us
+4426388,Jameson Williams,180.0,73.0,3,True,Active,1,23.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426388?lang=en&region=us
+4252364,Kyle Williams,192.0,70.0,0,True,FA,1,26.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4252364?lang=en&region=us
+4241012,Malik Williams,185.0,70.0,0,True,FA,1,25.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241012?lang=en&region=us
+3045138,Mike Williams,218.0,76.0,8,True,Active,1,30.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3045138?lang=en&region=us
+16345,Nick Williams,184.0,70.0,4,True,Active,1,33.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16345?lang=en&region=us
+4832070,Nick Williams,220.0,76.0,0,True,FA,1,,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4832070?lang=en&region=us
+3915399,Preston Williams,220.0,77.0,4,True,FA,1,27.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915399?lang=en&region=us
+4371974,Seth Williams,211.0,74.0,1,True,Practice Squad,1,24.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4371974?lang=en&region=us
+2587819,Tyrell Williams,210.0,76.0,7,True,FA,1,32.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2587819?lang=en&region=us
+4360326,Pooka Williams Jr.,164.0,70.0,1,True,FA,1,25.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360326?lang=en&region=us
+3040137,Derrick Willies,207.0,76.0,2,True,FA,1,30.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3040137?lang=en&region=us
+4241723,Damion Willis,204.0,75.0,2,True,FA,1,27.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241723?lang=en&region=us
+17051,Albert Wilson,200.0,69.0,8,True,FA,1,32.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17051?lang=en&region=us
+4569618,Garrett Wilson,183.0,72.0,3,True,Active,1,24.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569618?lang=en&region=us
+4686104,Johnny Wilson,228.0,78.0,0,True,Active,1,23.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4686104?lang=en&region=us
+4360761,Michael Wilson,213.0,74.0,2,True,Active,1,24.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360761?lang=en&region=us
+4240033,Pokey Wilson,181.0,72.0,0,True,FA,1,25.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240033?lang=en&region=us
+4431492,Roman Wilson,186.0,70.0,0,True,Active,1,23.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4431492?lang=en&region=us
+4035019,Javon Wims,215.0,76.0,4,True,FA,1,30.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035019?lang=en&region=us
+3128317,Juwann Winfree,210.0,73.0,4,True,Day-To-Day,1,28.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128317?lang=en&region=us
+4250253,Lujuan Winningham,195.0,75.0,0,True,FA,1,25.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4250253?lang=en&region=us
+4247942,Isaiah Winstead,213.0,76.0,1,True,FA,1,25.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4247942?lang=en&region=us
+4245174,Easop Winston Jr.,190.0,72.0,1,True,FA,1,27.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4245174?lang=en&region=us
+4039374,Dustin Woodard,291.0,74.0,0,True,FA,4,26.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4039374?lang=en&region=us
+4576845,Isaiah Wooden,170.0,69.0,0,True,FA,1,24.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4576845?lang=en&region=us
+15880,Robert Woods,193.0,72.0,12,True,Active,1,32.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15880?lang=en&region=us
+4360174,Michael Woods II,204.0,73.0,2,True,Practice Squad,1,24.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360174?lang=en&region=us
+3914504,Elex Woodworth,296.0,76.0,0,True,FA,4,27.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3914504?lang=en&region=us
+4683062,Xavier Worthy,165.0,71.0,0,True,Active,1,21.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4683062?lang=en&region=us
+4569995,Derek Wright,195.0,73.0,1,True,FA,1,26.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569995?lang=en&region=us
+4044121,Isaiah Wright,220.0,74.0,2,True,FA,1,27.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4044121?lang=en&region=us
+14918,Jarius Wright,191.0,70.0,8,True,FA,1,34.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14918?lang=en&region=us
+4426504,Milton Wright,195.0,75.0,0,True,FA,1,24.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426504?lang=en&region=us
+3126302,Willie Wright,300.0,75.0,1,True,FA,4,28.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126302?lang=en&region=us
+4875825,Shae Wyatt,190.0,73.0,0,True,FA,1,,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4875825?lang=en&region=us
+4430806,Luke Wypler,303.0,75.0,2,True,Day-To-Day,4,23.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4430806?lang=en&region=us
+4401805,Dareke Young,224.0,74.0,3,True,Active,1,25.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4401805?lang=en&region=us
+4258604,Michael Young Jr.,190.0,70.0,0,True,FA,1,25.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258604?lang=en&region=us
+3917914,Olamide Zaccheaus,193.0,68.0,6,True,Active,1,27.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917914?lang=en&region=us
+3916129,Isaiah Zuber,190.0,72.0,4,True,FA,1,27.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3916129?lang=en&region=us
+4294520,Brandon Zylstra,215.0,74.0,5,True,FA,1,31.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4294520?lang=en&region=us
+4569234,Keshunn Abram,193.0,74.0,0,True,FA,1,25.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569234?lang=en&region=us
+16800,Davante Adams,215.0,73.0,11,True,Active,1,31.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16800?lang=en&region=us
+4241053,Jonathan Adams,220.0,75.0,0,True,FA,1,25.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241053?lang=en&region=us
+3059918,Rodney Adams,189.0,73.0,2,True,FA,1,30.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3059918?lang=en&region=us
+4248067,Tyler Adams,190.0,72.0,0,True,FA,1,26.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4248067?lang=en&region=us
+4429205,Jordan Addison,175.0,71.0,2,True,Active,1,22.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429205?lang=en&region=us
+3051869,Quincy Adeboyejo,200.0,75.0,2,True,FA,1,29.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3051869?lang=en&region=us
+2971618,Nelson Agholor,200.0,72.0,10,True,Active,1,31.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2971618?lang=en&region=us
+3061612,Jamal Agnew,190.0,70.0,7,True,FA,1,29.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3061612?lang=en&region=us
+4360438,Brandon Aiyuk,200.0,72.0,5,True,Active,1,26.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360438?lang=en&region=us
+4035554,Landen Akers,191.0,72.0,1,True,FA,1,27.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035554?lang=en&region=us
+4055563,Deontez Alexander,202.0,73.0,1,True,FA,1,28.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4055563?lang=en&region=us
+3914307,Maurice Alexander,174.0,71.0,1,True,FA,1,27.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3914307?lang=en&region=us
+4243777,Alan Ali,301.0,76.0,0,True,FA,4,26.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243777?lang=en&region=us
+4259976,Josh Ali,200.0,72.0,2,True,FA,1,25.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259976?lang=en&region=us
+3134666,Brian Allen,303.0,74.0,6,True,FA,4,29.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3134666?lang=en&region=us
+3052083,Devon Allen,190.0,73.0,1,True,FA,1,29.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3052083?lang=en&region=us
+17102,Josh Allen,315.0,75.0,1,True,FA,4,32.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/17102?lang=en&region=us
+15818,Keenan Allen,211.0,74.0,12,True,Active,1,32.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15818?lang=en&region=us
+3115913,Geronimo Allison,202.0,75.0,5,True,FA,1,30.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115913?lang=en&region=us
+11674,Danny Amendola,185.0,71.0,13,True,FA,1,38.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/11674?lang=en&region=us
+2578529,David Andrews,300.0,74.0,10,True,Day-To-Day,4,32.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2578529?lang=en&region=us
+4362732,Jake Andrews,308.0,75.0,2,True,Day-To-Day,4,24.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362732?lang=en&region=us
+3931397,J.J. Arcega-Whiteside,225.0,74.0,4,True,FA,1,27.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3931397?lang=en&region=us
+4360644,Daniel Arias,216.0,75.0,1,True,FA,1,26.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360644?lang=en&region=us
+4571801,Ayir Asante,178.0,72.0,0,True,FA,1,23.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4571801?lang=en&region=us
+3046320,Marcell Ateman,216.0,76.0,3,True,FA,1,30.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3046320?lang=en&region=us
+4360797,Tutu Atwell,165.0,69.0,4,True,Active,1,25.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360797?lang=en&region=us
+4240895,Jhamon Ausbon,217.0,74.0,0,True,FA,1,,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240895?lang=en&region=us
+15786,Tavon Austin,185.0,68.0,10,True,FA,1,34.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15786?lang=en&region=us
+4243389,Calvin Austin III,162.0,69.0,3,True,Active,1,25.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243389?lang=en&region=us
+4372758,Kevin Austin Jr.,200.0,74.0,1,True,Practice Squad,1,24.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372758?lang=en&region=us
+3886809,Andre Baccellia,175.0,70.0,2,True,Practice Squad,1,27.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3886809?lang=en&region=us
+3919510,Alex Bachman,190.0,72.0,1,True,Active,1,28.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3919510?lang=en&region=us
+3053760,Jeff Badet,179.0,73.0,3,True,FA,1,30.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3053760?lang=en&region=us
+4030747,Manasseh Bailey,195.0,73.0,1,True,FA,1,27.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4030747?lang=en&region=us
+4068152,Kawaan Baker,210.0,73.0,1,True,FA,1,26.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4068152?lang=en&region=us
+4262900,Daylen Baldwin,219.0,74.0,2,True,FA,1,24.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4262900?lang=en&region=us
+4034704,Michael Bandy,190.0,70.0,3,True,Practice Squad,1,26.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4034704?lang=en&region=us
+4362430,Taye Barber,182.0,69.0,0,True,FA,1,24.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362430?lang=en&region=us
+4360979,Jose Barbon,185.0,72.0,0,True,FA,1,24.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360979?lang=en&region=us
+4408992,Sy Barnett,190.0,72.0,0,True,FA,1,,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4408992?lang=en&region=us
+4429251,Graham Barton,314.0,77.0,0,True,Active,4,22.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429251?lang=en&region=us
+4360939,Rashod Bateman,195.0,73.0,4,True,Active,1,24.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360939?lang=en&region=us
+3929631,Ryan Bates,302.0,76.0,6,True,Day-To-Day,4,27.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3929631?lang=en&region=us
+3139456,Cameron Batson,175.0,68.0,5,True,FA,1,28.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3139456?lang=en&region=us
+3917166,Omar Bayless,212.0,73.0,2,True,FA,1,27.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917166?lang=en&region=us
+15349,Cole Beasley,177.0,68.0,12,True,FA,1,35.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15349?lang=en&region=us
+16733,Odell Beckham Jr.,200.0,71.0,10,True,Active,1,31.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16733?lang=en&region=us
+3047968,Chad Beebe,187.0,70.0,5,True,FA,1,30.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3047968?lang=en&region=us
+2974503,Reggie Begelton,200.0,72.0,1,True,FA,1,31.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2974503?lang=en&region=us
+4570409,David Bell,212.0,73.0,3,True,Day-To-Day,1,23.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4570409?lang=en&region=us
+4372063,Ronnie Bell,190.0,72.0,2,True,Active,1,24.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372063?lang=en&region=us
+15555,Josh Bellamy,208.0,72.0,5,True,FA,1,35.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15555?lang=en&region=us
+16730,Kelvin Benjamin,240.0,77.0,6,True,FA,1,33.0,19,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16730?lang=en&region=us
+15062,Travis Benjamin,175.0,70.0,9,True,FA,1,34.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/15062?lang=en&region=us
+4422214,Trinity Benson,180.0,72.0,3,True,FA,1,27.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4422214?lang=en&region=us
+14976,Tony Bergstrom,310.0,77.0,8,True,FA,4,38.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14976?lang=en&region=us
+4911488,Jared Bernhardt,195.0,73.0,2,True,FA,1,27.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4911488?lang=en&region=us
+3123075,Braxton Berrios,185.0,69.0,7,True,Active,1,29.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3123075?lang=en&region=us
+4245639,Stanley Berryhill,190.0,71.0,0,True,FA,1,26.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4245639?lang=en&region=us
+4035788,Tyler Biadasz,318.0,76.0,5,True,Active,4,26.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035788?lang=en&region=us
+3116155,Saeed Blacknall,208.0,74.0,1,True,FA,1,28.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3116155?lang=en&region=us
+4369886,Chris Blair,198.0,74.0,1,True,Practice Squad,1,27.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4369886?lang=en&region=us
+3126002,Christian Blake,182.0,73.0,4,True,FA,1,28.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3126002?lang=en&region=us
+2973626,C.J. Board,181.0,73.0,4,True,FA,1,30.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2973626?lang=en&region=us
+4360405,Jake Bobo,207.0,76.0,2,True,Active,1,26.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360405?lang=en&region=us
+4360115,Slade Bolden,189.0,71.0,2,True,FA,1,25.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360115?lang=en&region=us
+3056476,Victor Bolden,178.0,68.0,3,True,FA,1,29.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3056476?lang=en&region=us
+3894912,Tyron Billy-Johnson,193.0,73.0,5,True,FA,1,28.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3894912?lang=en&region=us
+4258170,Tarik Black,213.0,75.0,1,True,FA,1,26.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4258170?lang=en&region=us
+4384952,Jadakis Bonds,206.0,75.0,0,True,FA,1,24.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4384952?lang=en&region=us
+3045523,Kendrick Bourne,205.0,73.0,8,True,Active,1,29.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3045523?lang=en&region=us
+4429022,Kayshon Boutte,197.0,71.0,2,True,Active,1,22.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429022?lang=en&region=us
+4259979,Lynn Bowden Jr.,204.0,73.0,3,True,FA,1,27.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4259979?lang=en&region=us
+4613067,Zion Bowens,185.0,73.0,0,True,FA,1,25.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4613067?lang=en&region=us
+3045144,Tyler Boyd,203.0,74.0,9,True,Active,1,29.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3045144?lang=en&region=us
+3932423,Miles Boykin,222.0,76.0,6,True,Practice Squad,1,28.0,26,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932423?lang=en&region=us
+3054842,Bradley Bozeman,317.0,75.0,7,True,Active,4,29.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3054842?lang=en&region=us
+3116729,Garrett Bradbury,300.0,75.0,6,True,Active,4,29.0,16,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3116729?lang=en&region=us
+4042807,Trevon Bradford,183.0,69.0,0,True,FA,1,26.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4042807?lang=en&region=us
+3917569,Ja'Marcus Bradley,198.0,72.0,2,True,FA,1,27.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917569?lang=en&region=us
+4249511,Johari Branch,314.0,74.0,0,True,FA,4,26.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4249511?lang=en&region=us
+3909039,Jermiah Braswell,210.0,72.0,0,True,FA,1,,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3909039?lang=en&region=us
+2577185,Jake Brendel,299.0,76.0,8,True,Active,4,32.0,25,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2577185?lang=en&region=us
+4585376,Shemar Bridges,208.0,76.0,1,True,FA,1,26.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4585376?lang=en&region=us
+4373062,Phillip Brooks,175.0,67.0,0,True,FA,1,25.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4373062?lang=en&region=us
+4047646,A.J. Brown,226.0,73.0,6,True,Active,1,27.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047646?lang=en&region=us
+4426800,Ahmarean Brown,170.0,68.0,0,True,FA,1,23.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426800?lang=en&region=us
+13934,Antonio Brown,185.0,70.0,11,True,FA,1,36.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/13934?lang=en&region=us
+4362890,Ben Brown,313.0,77.0,2,True,Active,4,26.0,17,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362890?lang=en&region=us
+4361577,Dyami Brown,195.0,72.0,4,True,Active,1,24.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361577?lang=en&region=us
+3128412,Evan Brown,320.0,75.0,6,True,Active,4,28.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128412?lang=en&region=us
+2971397,Fred Brown,195.0,73.0,2,True,FA,1,30.0,10,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2971397?lang=en&region=us
+4241372,Hollywood Brown,180.0,69.0,6,True,Day-To-Day,1,27.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4241372?lang=en&region=us
+4426825,Ireland Brown,300.0,75.0,0,True,FA,4,,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426825?lang=en&region=us
+16172,Jaron Brown,204.0,75.0,8,True,FA,1,34.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16172?lang=en&region=us
+16804,John Brown,178.0,71.0,8,True,FA,1,34.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16804?lang=en&region=us
+4029728,Kameron Brown,210.0,75.0,0,True,FA,1,28.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4029728?lang=en&region=us
+3121409,Noah Brown,225.0,74.0,8,True,Active,1,28.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3121409?lang=en&region=us
+4366625,Reggie Brown,195.0,73.0,0,True,FA,1,,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4366625?lang=en&region=us
+3915821,Tony Brown,195.0,73.0,1,True,FA,1,27.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915821?lang=en&region=us
+4689988,Jason Brownlee,202.0,75.0,2,True,Practice Squad,1,25.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4689988?lang=en&region=us
+13215,Dez Bryant,222.0,74.0,8,True,FA,1,35.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/13215?lang=en&region=us
+16886,Martavis Bryant,211.0,76.0,5,True,FA,1,32.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/16886?lang=en&region=us
+3138760,Ventell Bryant,205.0,75.0,2,True,FA,1,28.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3138760?lang=en&region=us
+5192448,Cole Burgess,192.0,73.0,0,True,Practice Squad,1,24.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/5192448?lang=en&region=us
+3932935,Deontay Burnett,185.0,72.0,2,True,FA,1,27.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3932935?lang=en&region=us
+4368341,Je'Quan Burton,177.0,69.0,0,True,FA,1,24.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4368341?lang=en&region=us
+4429033,Jermaine Burton,200.0,72.0,0,True,Active,1,23.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429033?lang=en&region=us
+4049750,Rico Bussey,190.0,72.0,0,True,FA,1,26.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4049750?lang=en&region=us
+3119471,Emmanuel Butler,220.0,76.0,0,True,FA,1,28.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3119471?lang=en&region=us
+3917940,Hakeem Butler,227.0,77.0,2,True,FA,1,28.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3917940?lang=en&region=us
+4243319,Terrell Bynum,188.0,72.0,1,True,FA,1,26.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4243319?lang=en&region=us
+2577667,Damiere Byrd,175.0,69.0,9,True,FA,1,31.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2577667?lang=en&region=us
+3056691,Dontez Byrd,186.0,71.0,0,True,FA,1,29.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3056691?lang=en&region=us
+4374141,Jordan Byrd,170.0,69.0,0,True,FA,1,24.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4374141?lang=en&region=us
+4047834,Cohl Cabral,304.0,77.0,1,True,FA,4,26.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047834?lang=en&region=us
+3728254,Deon Cain,202.0,74.0,3,True,FA,1,28.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3728254?lang=en&region=us
+4429362,Jalon Calhoun,194.0,71.0,0,True,FA,1,23.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4429362?lang=en&region=us
+3692942,George Campbell,183.0,76.0,0,True,FA,1,27.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3692942?lang=en&region=us
+3121410,Parris Campbell,208.0,72.0,6,True,Active,1,27.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3121410?lang=en&region=us
+3128348,KD Cannon,183.0,71.0,1,True,FA,1,28.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3128348?lang=en&region=us
+4035569,Austin Capps,304.0,76.0,0,True,FA,4,27.0,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035569?lang=en&region=us
+2974339,Austin Carr,195.0,73.0,4,True,FA,1,30.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2974339?lang=en&region=us
+2580216,DeAndre Carter,190.0,68.0,7,True,Active,1,31.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2580216?lang=en&region=us
+4361679,Devin Carter,214.0,75.0,0,True,FA,1,24.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4361679?lang=en&region=us
+3915097,Antonio Callaway,200.0,71.0,3,True,FA,1,27.0,6,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3915097?lang=en&region=us
+4035170,Marquez Callaway,204.0,74.0,4,True,Practice Squad,1,26.0,27,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035170?lang=en&region=us
+4037311,Jalen Camp,220.0,74.0,1,True,FA,1,26.0,5,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4037311?lang=en&region=us
+4360575,Malachi Carter,191.0,74.0,0,True,FA,1,24.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360575?lang=en&region=us
+4249736,Kody Case,182.0,70.0,0,True,FA,1,26.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4249736?lang=en&region=us
+4360874,Brad Cecil,300.0,76.0,0,True,FA,4,24.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4360874?lang=en&region=us
+4426893,Joshua Cephus,193.0,74.0,0,True,Practice Squad,1,23.0,30,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426893?lang=en&region=us
+4035793,Quintez Cephus,208.0,73.0,4,True,Practice Squad,1,26.0,14,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4035793?lang=en&region=us
+3115394,DJ Chark Jr.,200.0,75.0,7,True,Day-To-Day,1,28.0,24,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115394?lang=en&region=us
+3929636,Irvin Charles,219.0,76.0,2,True,Active,1,27.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3929636?lang=en&region=us
+4362628,Ja'Marr Chase,201.0,72.0,4,True,Active,1,24.0,4,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4362628?lang=en&region=us
+2977631,Jehu Chesson,204.0,74.0,3,True,FA,1,30.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2977631?lang=en&region=us
+2574808,Robbie Chosen,185.0,75.0,9,True,FA,1,31.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2574808?lang=en&region=us
+4031087,Cody Chrest,193.0,72.0,0,True,FA,1,26.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4031087?lang=en&region=us
+4372738,Matthew Cindric,295.0,76.0,0,True,Practice Squad,4,,1,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372738?lang=en&region=us
+3115387,Will Clapp,311.0,77.0,7,True,Active,4,28.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115387?lang=en&region=us
+4569239,Trevon Clark,193.0,75.0,0,True,FA,1,25.0,33,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4569239?lang=en&region=us
+4242151,Ty Clary,305.0,76.0,0,True,FA,4,25.0,9,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242151?lang=en&region=us
+4046692,Chase Claypool,238.0,76.0,5,True,FA,1,26.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4046692?lang=en&region=us
+4426938,Duke Clemens,305.0,76.0,0,True,FA,4,23.0,8,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4426938?lang=en&region=us
+4034964,Tyrie Cleveland,205.0,74.0,4,True,FA,1,27.0,11,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4034964?lang=en&region=us
+2574549,Sammie Coates,210.0,73.0,5,True,FA,1,31.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2574549?lang=en&region=us
+3049329,Rashard Davis,180.0,69.0,1,True,FA,1,29.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3049329?lang=en&region=us
+4250864,Dai'Jean Dixon,200.0,76.0,0,True,FA,1,26.0,18,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4250864?lang=en&region=us
+4242503,Alex Forsyth,312.0,76.0,2,True,Active,4,25.0,7,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242503?lang=en&region=us
+3052876,William Fuller V,184.0,73.0,6,True,FA,1,30.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3052876?lang=en&region=us
+3116096,Nick Gates,312.0,77.0,7,True,Active,4,28.0,21,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3116096?lang=en&region=us
+2518678,Justin Hardy,192.0,70.0,6,True,FA,1,32.0,3,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2518678?lang=en&region=us
+4047728,Damon Hazelton,215.0,75.0,0,True,FA,1,27.0,34,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4047728?lang=en&region=us
+14053,Randall Cobb,192.0,70.0,13,True,FA,1,34.0,20,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/14053?lang=en&region=us
+4372041,Brian Cobbs,206.0,73.0,0,True,FA,1,25.0,22,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4372041?lang=en&region=us
+4695883,Jalen Coker,213.0,75.0,0,True,Active,1,22.0,29,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4695883?lang=en&region=us
+3115972,Mason Cole,298.0,77.0,6,True,Active,4,28.0,23,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3115972?lang=en&region=us
+4041703,Matt Cole,197.0,70.0,1,True,FA,1,27.0,28,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4041703?lang=en&region=us
+3071572,Keelan Cole Sr.,194.0,73.0,7,True,FA,1,31.0,13,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/3071572?lang=en&region=us
+4242991,Chris Coleman,192.0,71.0,0,True,FA,1,25.0,15,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4242991?lang=en&region=us
+2978929,Corey Coleman,193.0,71.0,5,True,FA,1,30.0,12,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/2978929?lang=en&region=us
+4635008,Keon Coleman,215.0,76.0,0,True,Active,1,21.0,2,,http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4635008?lang=en&region=us
