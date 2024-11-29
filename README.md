@@ -50,3 +50,7 @@ Please see [02_feature_engineering](notebooks/02_feature_engineering.ipynb) for 
 
 Please see [03_model_training](notebooks/03_model_training.ipynb) for data analysis and feature engineering.
 
+
+## Project Report
+
+Please see [DSC412_001_FA24_PR_amcheste.pdf](DSC412_001_FA24_FR_amcheste.pdf) for a detailed project proposal.
